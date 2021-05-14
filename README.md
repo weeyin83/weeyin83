@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sarah Lean!
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=techielass) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=People%20subscribed%20to%20my%20YouTube%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/techielass?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=techielass)
 
 <!--
 **weeyin83/weeyin83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
