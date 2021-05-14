@@ -13,6 +13,12 @@ I am a STEM Ambassador and am hopeful that by sharing my story with the next gen
 My passion is technology, and I love to help people understand what it can do to help them. I consider myself a life long learner and love to share my passion for learning with others.
 
 ---
+
+🧰 Toolbox
+
+<img src="https://github.com/weeyin8s/weeyin83/blob/master/icons/windows-logo.png" alt="Microsoft Windows" width="50" height="50"/>
+
+---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Weekly Update #91 - Normalise taking time off](https://www.youtube.com/watch?v=RNlR2a_5Uk4)
