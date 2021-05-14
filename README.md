@@ -13,3 +13,20 @@ I am a STEM Ambassador and am hopeful that by sharing my story with the next gen
 My passion is technology, and I love to help people understand what it can do to help them. I consider myself a life long learner and love to share my passion for learning with others.
 
 ---
+📺 Latest YouTube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://www.techielass.com)
+
+---
