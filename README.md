@@ -22,7 +22,8 @@ My passion is technology, and I love to help people understand what it can do to
 - [Live or Recorded Demos - Panel Discussion](https://www.youtube.com/watch?v=Y5m3YfEO1ks)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
+ ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
+
 ---
 
 📘 Latest Blog Articles
