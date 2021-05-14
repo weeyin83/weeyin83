@@ -28,7 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Create an Azure SQL Database with built-in sample data](https://www.techielass.com/create-an-azure-sql-database-with-built-in-sample-data/)
+- [Counting Down to ESPC21 Online](https://www.techielass.com/counting-down-to-espc21-online/)
+- [“WARNING: Unable to download the list of available providers. Check your internet connection.” Unable to update PowerShell Packages](https://www.techielass.com/warning-unable-to-download-the-list-of-available-providers-check-your-internet-connection-unable-to-update-powershell-packages/)
+- [Weekly Update #90 - What is the purpose of these updates?](https://www.techielass.com/weekly-update-90/)
+- [Troubleshooting degraded state in Azure Traffic Manager](https://www.techielass.com/troubleshooting-degraded-state-in-azure-traffic-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
