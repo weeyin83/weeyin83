@@ -45,3 +45,9 @@ My passion is technology, and I love to help people understand what it can do to
 ▶ [...more blog articles](https://www.techielass.com)
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weeyin83&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeyin83&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
