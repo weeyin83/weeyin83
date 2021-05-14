@@ -16,7 +16,7 @@ My passion is technology, and I love to help people understand what it can do to
 
 🧰 Toolbox
 
-<img src="https://github.com/weeyin83/weeyin83/blob/main/icons/windows-logo.png" alt="Microsoft Windows" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/weeyin83/weeyin83/blob/main/icons/azure.jpg" alt="Azure" width="50" height="50"/><img src="https://github.com/weeyin83/weeyin83/blob/main/icons/windows-logo.png" alt="Microsoft Windows" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 
 ---
 📺 Latest YouTube Videos
