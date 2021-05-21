@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #92 - I need you!](https://www.youtube.com/watch?v=DP4-UAD9BsY)
 - [Content Creation Tips](https://www.youtube.com/watch?v=yaP5R5P9YX8)
 - [Weekly Update #91 - Normalise taking time off](https://www.youtube.com/watch?v=RNlR2a_5Uk4)
 - [Glasgow Azure User Group #24](https://www.youtube.com/watch?v=pjtabPyn-C4)
 - [Weekly Update #90 - What is the purpose of these updates?](https://www.youtube.com/watch?v=_5_LMVVt_0Q)
-- [Creating Video Content - Panel Discussion](https://www.youtube.com/watch?v=8vJriig4x4M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
