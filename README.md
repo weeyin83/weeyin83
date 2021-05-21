@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Update #92 - I need you!](https://www.techielass.com/weekly-update-92/)
 - [Check website response time with a bash command](https://www.techielass.com/check-website-response-time-with-a-bash-command/)
 - [Error when deploying an Azure Landing Zone template!](https://www.techielass.com/error-when-deploying-an-azure-landing-zone-template/)
 - [Weekly Update #91 - Normalise taking time off](https://www.techielass.com/weekly-update-91/)
 - [Create an Azure SQL Database with built-in sample data](https://www.techielass.com/create-an-azure-sql-database-with-built-in-sample-data/)
-- [Counting Down to ESPC21 Online](https://www.techielass.com/counting-down-to-espc21-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
