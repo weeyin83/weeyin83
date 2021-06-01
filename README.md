@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Print Simple Markup in Word](https://www.techielass.com/print-simple-markup-in-word/)
 - [Weekly Update #93 - Round up from MS Build](https://www.techielass.com/weekly-update-93/)
 - [Content Creation Tips](https://www.techielass.com/content-creation-tips/)
 - [Recorded demos or Live in a presentation?](https://www.techielass.com/recorded-demos-or-live-in-a-presentation/)
 - [Weekly Update #92 - I need you!](https://www.techielass.com/weekly-update-92/)
-- [Check website response time with a bash command](https://www.techielass.com/check-website-response-time-with-a-bash-command/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
