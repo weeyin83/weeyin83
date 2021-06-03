@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live or Recorded Demos - Panel Discussion](https://www.youtube.com/watch?v=Y5m3YfEO1ks)
 - [Weekly Update #93 - Round up from MS Build](https://www.youtube.com/watch?v=OEv0us_aUCY)
 - [Personal Brand vs Company Brand - Panel Discussion](https://www.youtube.com/watch?v=JeCzPi-cREU)
 - [Weekly Update #92 - I need you!](https://www.youtube.com/watch?v=DP4-UAD9BsY)
 - [Content Creation Tips](https://www.youtube.com/watch?v=yaP5R5P9YX8)
-- [Weekly Update #91 - Normalise taking time off](https://www.youtube.com/watch?v=RNlR2a_5Uk4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
