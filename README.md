@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Update #94 - Azure news roundup](https://www.techielass.com/weekly-update-94/)
 - [Customise Windows Terminal](https://www.techielass.com/customise-windows-terminal/)
 - [Print Simple Markup in Word](https://www.techielass.com/print-simple-markup-in-word/)
 - [Weekly Update #93 - Round up from MS Build](https://www.techielass.com/weekly-update-93/)
 - [Content Creation Tips](https://www.techielass.com/content-creation-tips/)
-- [Recorded demos or Live in a presentation?](https://www.techielass.com/recorded-demos-or-live-in-a-presentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
