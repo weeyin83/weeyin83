@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install WinGet Windows Package Manager](https://www.techielass.com/how-to-install-winget-windows-package-manager/)
 - [Your opinion matters!](https://www.techielass.com/your-opinion-matters/)
 - [Weekly Update #94 - Azure news roundup](https://www.techielass.com/weekly-update-94/)
 - [Customise Windows Terminal](https://www.techielass.com/customise-windows-terminal/)
 - [Print Simple Markup in Word](https://www.techielass.com/print-simple-markup-in-word/)
-- [Weekly Update #93 - Round up from MS Build](https://www.techielass.com/weekly-update-93/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
