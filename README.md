@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #95 - Windows Virtual Desktop rename!](https://www.youtube.com/watch?v=D__psluDlLw)
 - [Personal Brand vs Company Brand - Panel Discussion](https://www.youtube.com/watch?v=JeCzPi-cREU)
 - [Weekly Update #94 - Azure News Roundup](https://www.youtube.com/watch?v=evMYWB2MgNs)
 - [Live or Recorded Demos - Panel Discussion](https://www.youtube.com/watch?v=Y5m3YfEO1ks)
 - [Weekly Update #93 - Round up from MS Build](https://www.youtube.com/watch?v=OEv0us_aUCY)
-- [Weekly Update #92 - I need you!](https://www.youtube.com/watch?v=DP4-UAD9BsY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
