@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to plan for cloud adoption](https://www.techielass.com/how-to-plan-for-cloud-adoption/)
 - [Configure Windows Package Manager Settings](https://www.techielass.com/configure-windows-package-manager-settings/)
 - [Run Windows Update From PowerShell](https://www.techielass.com/run-windows-update-from-powershell/)
 - [Weekly Update #95 - Windows Virtual Desktop rename!](https://www.techielass.com/weekly-update-95/)
 - [Azure Static Web Apps are awesome!](https://www.techielass.com/azure-static-web-apps-are-awesome/)
-- [How to Install WinGet Windows Package Manager](https://www.techielass.com/how-to-install-winget-windows-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
