@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Developer Relations?](https://www.techielass.com/what-is-devrel/)
 - [Installing software with Windows Package Manager](https://www.techielass.com/installing-software-with-windows-package-manager/)
 - [Weekly Update #96 - New Azure Region](https://www.techielass.com/weekly-update-96/)
 - [How to plan for cloud adoption](https://www.techielass.com/how-to-plan-for-cloud-adoption/)
 - [Configure Windows Package Manager Settings](https://www.techielass.com/configure-windows-package-manager-settings/)
-- [Run Windows Update From PowerShell](https://www.techielass.com/run-windows-update-from-powershell/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
