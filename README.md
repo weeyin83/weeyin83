@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Is your PC ready for Windows 11?](https://www.techielass.com/is-your-pc-ready-for-windows-11/)
 - [Weekly Update #97 - NFS, OS Upgrades and Streaming Support](https://www.techielass.com/weekly-update-97/)
 - [Reset Ubuntu Password in WSL on Windows 10](https://www.techielass.com/reset-ubuntu-password-in-wsl-on-windows-10/)
 - [What is Developer Relations?](https://www.techielass.com/what-is-devrel/)
 - [Installing software with Windows Package Manager](https://www.techielass.com/installing-software-with-windows-package-manager/)
-- [Weekly Update #96 - New Azure Region](https://www.techielass.com/weekly-update-96/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
