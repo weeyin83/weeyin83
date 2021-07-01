@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #100](https://www.youtube.com/watch?v=XvIwigKwobw)
 - [My Ubiquiti UniFi addiction has begun...](https://www.youtube.com/watch?v=9YgFaLAa2ig)
 - [Weekly Update #97 -  NFS, OS Upgrades and Streaming Support](https://www.youtube.com/watch?v=iAh3wXh7Gkg)
 - [Weekly Update #96 - New Azure Region](https://www.youtube.com/watch?v=yIbXg_zzB3Y)
 - [Tuesday Motivation!](https://www.youtube.com/watch?v=wNOGrec5hCQ)
-- [Weekly Update #95 - Windows Virtual Desktop rename!](https://www.youtube.com/watch?v=D__psluDlLw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
