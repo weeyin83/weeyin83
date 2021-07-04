@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure Bicep - Glasgow Azure User Group](https://www.youtube.com/watch?v=UQcDqV2DBbc)
 - [Weekly Update #98 - Azure VPN NAT, Azure Automanage & Azure Azure and Windows 11!](https://www.youtube.com/watch?v=9OPuLC_vPp0)
 - [Weekly Update #100](https://www.youtube.com/watch?v=XvIwigKwobw)
 - [My Ubiquiti UniFi addiction has begun...](https://www.youtube.com/watch?v=9YgFaLAa2ig)
 - [Weekly Update #97 -  NFS, OS Upgrades and Streaming Support](https://www.youtube.com/watch?v=iAh3wXh7Gkg)
-- [Weekly Update #96 - New Azure Region](https://www.youtube.com/watch?v=yIbXg_zzB3Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
