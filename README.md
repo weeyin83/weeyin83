@@ -38,8 +38,8 @@ My passion is technology, and I love to help people understand what it can do to
 - [Weekly Update #98 - Azure VPN NAT, Azure Automanage & Azure Azure and Windows 11!](https://www.techielass.com/weekly-update-98/)
 - [How to install Hugo on Windows 10](https://www.techielass.com/how-to-install-hugo-on-windows-10/)
 - [From SysAdmin to Developer Relations!](https://www.techielass.com/from-sysadmin-to-developer-relations/)
-- [Is your PC ready for Windows 11?](https://www.techielass.com/is-your-pc-ready-for-windows-11/)
 - [Weekly Update #97 - NFS, OS Upgrades and Streaming Support](https://www.techielass.com/weekly-update-97/)
+- [Reset Ubuntu Password in WSL on Windows 10](https://www.techielass.com/reset-ubuntu-password-in-wsl-on-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
