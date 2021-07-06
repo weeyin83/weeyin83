@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips for using Azure Static Web Apps](https://www.techielass.com/tips-for-using-azure-static-web-apps/)
 - [Weekly Update #98 - Azure VPN NAT, Azure Automanage & Azure Azure and Windows 11!](https://www.techielass.com/weekly-update-98/)
 - [How to install Hugo on Windows 10](https://www.techielass.com/how-to-install-hugo-on-windows-10/)
 - [From SysAdmin to Developer Relations!](https://www.techielass.com/from-sysadmin-to-developer-relations/)
 - [Weekly Update #97 - NFS, OS Upgrades and Streaming Support](https://www.techielass.com/weekly-update-97/)
-- [Reset Ubuntu Password in WSL on Windows 10](https://www.techielass.com/reset-ubuntu-password-in-wsl-on-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
