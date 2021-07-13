@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Package Manager Command Line Tab Completion](https://www.techielass.com/windows-package-manager-command-line-tab-completion/)
 - [Get Started with Windows Package Manager](https://www.techielass.com/get-started-with-windows-package-manager/)
 - [Weekly Update #99 - Windows Server, Azure Security Centre, App Service Environment & much more](https://www.techielass.com/weekly-update-99/)
 - [Install Windows Terminal with Windows Package Manager](https://www.techielass.com/install-windows-terminal-with-windows-package-manager/)
 - [Tips for using Azure Static Web Apps](https://www.techielass.com/tips-for-using-azure-static-web-apps/)
-- [Weekly Update #98 - Azure VPN NAT, Azure Automanage & Azure Azure and Windows 11!](https://www.techielass.com/weekly-update-98/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
