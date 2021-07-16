@@ -37,7 +37,7 @@ My passion is technology, and I love to help people understand what it can do to
 <!-- BLOG-POST-LIST:START -->
 - [What is Hybrid Cloud and Why?](https://www.techielass.com/what-is-hybrid-cloud-and-why/)
 - [Enterprise-Scale Landing Zone Community Call](https://www.techielass.com/enterprise-scale-landing-zone-community-call/)
-- [Windows Package Manager Command Line Tab Completion](https://www.techielass.com/windows-package-manager-command-line-tab-completion/)
+- [PowerShell autocomplete and Windows Package Manager](https://www.techielass.com/windows-package-manager-command-line-tab-completion/)
 - [Get Started with Windows Package Manager](https://www.techielass.com/get-started-with-windows-package-manager/)
 - [Weekly Update #99 - Windows Server, Azure Security Centre, App Service Environment & much more](https://www.techielass.com/weekly-update-99/)
 <!-- BLOG-POST-LIST:END -->
