@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I've got YouTube short access, what should I use them for? 😉](https://www.youtube.com/watch?v=VFZSKIWT9Bw)
 - [Weekly Update #100](https://www.youtube.com/watch?v=XvIwigKwobw)
 - [Native Windows Package Manager - WinGet - Overview](https://www.youtube.com/watch?v=ITEWnnXazPA)
 - [Weekly Update #99 - Windows Server, Azure Security Centre, App Service Environment & much more](https://www.youtube.com/watch?v=Yt8i7tko1VQ)
 - [Azure Bicep - Glasgow Azure User Group](https://www.youtube.com/watch?v=UQcDqV2DBbc)
-- [Weekly Update #98 - Azure VPN NAT, Azure Automanage & Azure Azure and Windows 11!](https://www.youtube.com/watch?v=9OPuLC_vPp0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
