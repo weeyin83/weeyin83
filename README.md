@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Update #101 - Azure news and Ubiquiti](https://www.techielass.com/weekly-update-101/)
 - [Install Windows Sandbox](https://www.techielass.com/install-windows-sandbox/)
 - [Install PowerShell 7 with Windows Package Manager](https://www.techielass.com/install-powershell-7-with-windows-package-manager/)
 - [Weekly Update #100 - A milestone](https://www.techielass.com/weekly-update-100/)
 - [What is Hybrid Cloud and Why?](https://www.techielass.com/what-is-hybrid-cloud-and-why/)
-- [Enterprise-Scale Landing Zone Community Call](https://www.techielass.com/enterprise-scale-landing-zone-community-call/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
