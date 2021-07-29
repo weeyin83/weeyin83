@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Test your Windows Package Manager manifests with Windows Sandbox](https://www.techielass.com/test-your-windows-package-manager-manifests-with-windows-sandbox/)
 - [Keep your software up to date with Windows Package Manager](https://www.techielass.com/keep-your-software-up-to-date-with-windows-package-manager/)
 - [Monitor SSL Certificates with Azure Monitor](https://www.techielass.com/monitor-ssl-certificates-with-azure-monitor/)
 - [Weekly Update #101 - Azure news and Ubiquiti](https://www.techielass.com/weekly-update-101/)
 - [Install Windows Sandbox](https://www.techielass.com/install-windows-sandbox/)
-- [Install PowerShell 7 with Windows Package Manager](https://www.techielass.com/install-powershell-7-with-windows-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
