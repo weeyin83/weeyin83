@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #104 - the two year anniversary episode](https://www.youtube.com/watch?v=U17s8sdzFqU)
+- [Weekly Update #103](https://www.youtube.com/watch?v=BnfYNnxPhSk)
+- [Weekly Update #102](https://www.youtube.com/watch?v=lKZFXehDAnA)
 - [Using Azure Cloud Shell Editors](https://www.youtube.com/watch?v=p6nF3wNDlSQ)
 - [Optimise your Azure environment with Azure Advisor](https://www.youtube.com/watch?v=levmP1R9qoM)
-- [Monitor SSL Certificates with Azure Monitor](https://www.youtube.com/watch?v=1I5i9kS6XPo)
-- [Weekly Update #101 - Azure and Ubiquiti news](https://www.youtube.com/watch?v=00eILHvw2so)
-- [A quick insight into how I create videos](https://www.youtube.com/watch?v=c4AkB-BqqCc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
