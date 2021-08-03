@@ -22,7 +22,7 @@ My passion is technology, and I love to help people understand what it can do to
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [AZ-700 – What You Need to Know About the New Azure Certification](https://www.youtube.com/watch?v=6zWOCPPTG7A)
-- [My Ubiquiti UniFi setup..](https://www.youtube.com/watch?v=sJWVlNUhokY)
+- [My Ubiquiti UniFi setup](https://www.youtube.com/watch?v=sJWVlNUhokY)
 - [Weekly Update #104 - the two year anniversary episode](https://www.youtube.com/watch?v=U17s8sdzFqU)
 - [Weekly Update #103](https://www.youtube.com/watch?v=BnfYNnxPhSk)
 - [Weekly Update #102](https://www.youtube.com/watch?v=lKZFXehDAnA)
