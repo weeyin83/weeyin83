@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #103](https://www.youtube.com/watch?v=BnfYNnxPhSk)
 - [Azure Migrate - Assess your physical servers [REVISITED]](https://www.youtube.com/watch?v=GC252xj7d2M)
 - [AZ-700 – What You Need to Know About the New Azure Certification](https://www.youtube.com/watch?v=6zWOCPPTG7A)
 - [My Ubiquiti UniFi setup](https://www.youtube.com/watch?v=sJWVlNUhokY)
 - [Weekly Update #104 - the two year anniversary episode](https://www.youtube.com/watch?v=U17s8sdzFqU)
-- [Weekly Update #103](https://www.youtube.com/watch?v=BnfYNnxPhSk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
