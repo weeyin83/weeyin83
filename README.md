@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Update #103 - Azure General Availability news and UK Tech News!](https://www.techielass.com/weekly-update-103/)
 - [Silence those Microsoft Teams notifications!](https://www.techielass.com/silence-those-microsoft-teams-notifications/)
 - [Level your volume!](https://www.techielass.com/level-your-volume/)
 - [Weekly Update #102](https://www.techielass.com/weekly-update-102/)
 - [Test your Windows Package Manager manifests with Windows Sandbox](https://www.techielass.com/test-your-windows-package-manager-manifests-with-windows-sandbox/)
-- [Keep your software up to date with Windows Package Manager](https://www.techielass.com/keep-your-software-up-to-date-with-windows-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
