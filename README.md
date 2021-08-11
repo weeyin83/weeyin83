@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [2 Year Giveaway!](https://www.techielass.com/2-year-giveaway/)
 - [Automatic virtual machine activation](https://www.techielass.com/automatic-virtual-machine-activation/)
 - [Weekly Update #103 - Azure General Availability news and UK Tech News!](https://www.techielass.com/weekly-update-103/)
 - [Silence those Microsoft Teams notifications!](https://www.techielass.com/silence-those-microsoft-teams-notifications/)
 - [Level your volume!](https://www.techielass.com/level-your-volume/)
-- [Weekly Update #102](https://www.techielass.com/weekly-update-102/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
