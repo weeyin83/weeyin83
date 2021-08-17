@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [SC-200 Microsoft Security Operations Analyst Exam](https://www.youtube.com/watch?v=q26kqL6LFuU)
 - [Bonnie, Rugged Scotland!](https://www.youtube.com/watch?v=zyOjX5jHEkU)
 - [Weekly Update #104 - the two year anniversary episode](https://www.youtube.com/watch?v=U17s8sdzFqU)
 - [Study tips SC-300 Microsoft Identity and Access Administrator Exam](https://www.youtube.com/watch?v=OBg69StlA_Q)
 - [Ubiquiti UniFi Augmented Reality (AR)](https://www.youtube.com/watch?v=GB-3fcXNOoo)
-- [Weekly Update #103 - Azure General Availability news and UK Tech News!](https://www.youtube.com/watch?v=BnfYNnxPhSk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
