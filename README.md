@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use PowerShell's Grep](https://www.techielass.com/how-to-use-powershells-grep/)
 - [Weekly Update #104 - Az Modules, VPN Client for macOS, foldable phones](https://www.techielass.com/weekly-update-104/)
 - [Windows Server: Extend expired Evaluation Period](https://www.techielass.com/windows-server-extend-expired-evaluation-period/)
 - [2 Year Giveaway!](https://www.techielass.com/2-year-giveaway/)
 - [Automatic virtual machine activation](https://www.techielass.com/automatic-virtual-machine-activation/)
-- [Weekly Update #103 - Azure General Availability news and UK Tech News!](https://www.techielass.com/weekly-update-103/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
