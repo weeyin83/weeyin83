@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Package Manager can help you export and import a collection of software!](https://www.techielass.com/windows-package-manager-can-help-you-export-and-import-a-collection-of-software/)
 - [Weekly Update #106 - Azure Policy, Azure Site Recovery & Windows 11 in AVD](https://www.techielass.com/weekly-update-106/)
 - [Directly connect your Ubiquiti Dream Machine Pro to BT Fibre](https://www.techielass.com/directly-connect-your-ubiquiti-dream-machine-pro-to-bt-fibre/)
 - [Tools I use when creating videos and podcasts](https://www.techielass.com/tools-i-use-when-creating-videos-and-podcasts/)
 - [Weekly Update #105 - GitHub Codespaces, AVS placement policies, Azure Storage Inventory](https://www.techielass.com/weekly-update-105/)
-- [Running my blog on Ghost](https://www.techielass.com/moving/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
