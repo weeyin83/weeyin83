@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [SC-300 Study Guide: Microsoft Identity and Access Administrator](https://www.techielass.com/sc-300-study-guide/)
 - [How to start a podcast for free](https://www.techielass.com/how-to-start-a-podcast-for-free/)
 - [GitHub Tips and Tricks](https://www.techielass.com/github-tips-and-tricks/)
 - [Windows Package Manager can help you export and import a collection of software!](https://www.techielass.com/windows-package-manager-can-help-you-export-and-import-a-collection-of-software/)
 - [Weekly Update #106 - Azure Policy, Azure Site Recovery & Windows 11 in AVD](https://www.techielass.com/weekly-update-106/)
-- [Directly connect your Ubiquiti Dream Machine Pro to BT Fibre](https://www.techielass.com/directly-connect-your-ubiquiti-dream-machine-pro-to-bt-fibre/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
