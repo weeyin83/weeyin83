@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #107 - Exam objectives, Availability Zones, GitHub Actions, Business cards](https://www.youtube.com/watch?v=wF2CydCNZvM)
 - [Weekly Update #106 - Azure Policy, Azure Site Recovery & Windows 11 in AVD](https://www.youtube.com/watch?v=MJYPuUB1lqc)
 - [Find Orphaned Azure Resources](https://www.youtube.com/watch?v=ninNzmsPA4s)
 - [SC-400 Microsoft Information Protection Administrator Exam](https://www.youtube.com/watch?v=TpuZk0M8sms)
 - [Tips to grow your YouTube channel](https://www.youtube.com/watch?v=KIYg11FMz4c)
-- [Weekly Update #105 - GitHub Codespaces, AVS placement policies, Azure Storage Inventory](https://www.youtube.com/watch?v=sd11GB_0LW4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
