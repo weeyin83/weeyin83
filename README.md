@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert a folder to a Git repository](https://www.techielass.com/convert-a-folder-to-a-git-repository/)
 - [Weekly Update #108 - Windows Server 2022, new Apple tech, Canva and Scotland](https://www.techielass.com/weekly-update-108/)
 - [Install Azure Arc onto your servers](https://www.techielass.com/install-azure-arc-onto-your-server/)
 - [How (not) to Respond to a CFP](https://www.techielass.com/how-not-to-respond-to-a-cfp/)
 - [Weekly Update #107 - Exam objectives, Availability Zones, GitHub Actions, Business cards](https://www.techielass.com/weekly-update-107/)
-- [SC-300 Study Guide: Microsoft Identity and Access Administrator](https://www.techielass.com/sc-300-study-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
