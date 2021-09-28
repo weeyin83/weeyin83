@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [RunAsRadio: Windows Package Manager](https://www.techielass.com/runasradio-windows-package-manager/)
 - [Weekly Update #109 - Surface Laptop Studio, Azure Reservations, Windows Server Exams](https://www.techielass.com/weekly-update-109/)
 - [My career journey - Instagram Interview](https://www.techielass.com/my-career-journey-instagram-interview/)
 - [Speaking at Scenic City Summit](https://www.techielass.com/speaking-at-scenic-city-summit/)
 - [Convert a folder to a Git repository](https://www.techielass.com/convert-a-folder-to-a-git-repository/)
-- [Weekly Update #108 - Windows Server 2022, new Apple tech, Canva and Scotland](https://www.techielass.com/weekly-update-108/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
