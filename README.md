@@ -21,11 +21,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #110 - GitHub, Network Security Dashboard, Availability Zones and Hacktoberfest!](https://www.youtube.com/watch?v=tYTjXDTsL_k)
 - [I'm leaving Microsoft](https://www.youtube.com/watch?v=jui1EsCADpU)
 - [Weekly Update #109 - Surface Laptop Studio, Azure Reservations, Windows Server Exams](https://www.youtube.com/watch?v=dACWUom4srk)
 - [Weekly Update #108 - Windows Server 2022, new Apple tech, Canva and Scotland](https://www.youtube.com/watch?v=4HhWgKNcCNo)
 - [Weekly Update #107 - Exam objectives, Availability Zones, GitHub Actions, Business cards](https://www.youtube.com/watch?v=wF2CydCNZvM)
-- [Weekly Update #106 - Azure Policy, Azure Site Recovery & Windows 11 in AVD](https://www.youtube.com/watch?v=MJYPuUB1lqc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
