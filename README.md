@@ -35,11 +35,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Automanage and Azure Arc!](https://www.techielass.com/azure-automanage-and-azure-arc/)
 - [Install software to a different location using Windows Package Manager](https://www.techielass.com/install-software-to-a-different-location-using-windows-package-manager/)
 - [Weekly Update #110 - GitHub, Network Security Dashboard, Availability Zones and Hacktoberfest!](https://www.techielass.com/weekly-update-110/)
 - [I'm leaving Microsoft](https://www.techielass.com/im-leaving-microsoft/)
 - [RunAsRadio: Windows Package Manager](https://www.techielass.com/runasradio-windows-package-manager/)
-- [Weekly Update #109 - Surface Laptop Studio, Azure Reservations, Windows Server Exams](https://www.techielass.com/weekly-update-109/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
