@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Connect to a SQL database with Visual Studio Code](https://www.techielass.com/connect-to-a-sql-database-with-visual-studio-code/)
 - [Weekly Update #111 - Azure DevOps, Ubuntu, System Outages, Windows 11](https://www.techielass.com/weekly-update-111/)
 - [Azure Automanage and Azure Arc!](https://www.techielass.com/azure-automanage-and-azure-arc/)
 - [Install software to a different location using Windows Package Manager](https://www.techielass.com/install-software-to-a-different-location-using-windows-package-manager/)
 - [Weekly Update #110 - GitHub, Network Security Dashboard, Availability Zones and Hacktoberfest!](https://www.techielass.com/weekly-update-110/)
-- [I'm leaving Microsoft](https://www.techielass.com/im-leaving-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
