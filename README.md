@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Install SysInternals with Windows Package Manager](https://www.techielass.com/install-sysinternals-with-windows-package-manager/)
 - [Windows Server Hybrid Administrator Associate certification](https://www.techielass.com/windows-server-hybrid-administrator-associate-certification/)
 - [Connect to a SQL database with Visual Studio Code](https://www.techielass.com/connect-to-a-sql-database-with-visual-studio-code/)
 - [Weekly Update #111 - Azure DevOps, Ubuntu, System Outages, Windows 11](https://www.techielass.com/weekly-update-111/)
 - [Azure Automanage and Azure Arc!](https://www.techielass.com/azure-automanage-and-azure-arc/)
-- [Install software to a different location using Windows Package Manager](https://www.techielass.com/install-software-to-a-different-location-using-windows-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
