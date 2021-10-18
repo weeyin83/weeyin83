@@ -19,11 +19,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My new career adventure!](https://www.youtube.com/watch?v=1koCLaSDDVQ)
 - [Weekly Update #112 - Azure Firewall, Container Insights, a week of outages and Apple share price!](https://www.youtube.com/watch?v=EE5ab7UyIDQ)
 - [Weekly Update #111 - Azure DevOps, Ubuntu, System Outages, Windows 11](https://www.youtube.com/watch?v=9_vaIBMX3J4)
 - [Weekly Update #110 - GitHub, Network Security Dashboard, Availability Zones and Hacktoberfest!](https://www.youtube.com/watch?v=tYTjXDTsL_k)
 - [I'm leaving Microsoft](https://www.youtube.com/watch?v=jui1EsCADpU)
-- [Weekly Update #109 - Surface Laptop Studio, Azure Reservations, Windows Server Exams](https://www.youtube.com/watch?v=dACWUom4srk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
