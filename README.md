@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Find Orphaned Azure Resources](https://www.techielass.com/find-orphaned-azure-resources/)
 - [I'm joining Octopus Deploy!](https://www.techielass.com/im-joining-octopus-deploy/)
 - [Weekly Update #112 - Azure Firewall, Container Insights, a week of outages and Apple share price!](https://www.techielass.com/weekly-update-112/)
 - [Install SysInternals with Windows Package Manager](https://www.techielass.com/install-sysinternals-with-windows-package-manager/)
 - [Windows Server Hybrid Administrator Associate certification](https://www.techielass.com/windows-server-hybrid-administrator-associate-certification/)
-- [Connect to a SQL database with Visual Studio Code](https://www.techielass.com/connect-to-a-sql-database-with-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
