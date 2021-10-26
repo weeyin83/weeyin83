@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Check the status of your local repository](https://www.techielass.com/check-the-status-of-your-local-repository-2/)
 - [Weekly Update #113 - Quiet on the Azure front, new Google phone and rats chewing through broadband!](https://www.techielass.com/weekly-update-113/)
 - [Find Orphaned Azure Resources](https://www.techielass.com/find-orphaned-azure-resources/)
 - [I'm joining Octopus Deploy!](https://www.techielass.com/im-joining-octopus-deploy/)
 - [Weekly Update #112 - Azure Firewall, Container Insights, a week of outages and Apple share price!](https://www.techielass.com/weekly-update-112/)
-- [Install SysInternals with Windows Package Manager](https://www.techielass.com/install-sysinternals-with-windows-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
