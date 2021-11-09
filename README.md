@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Git error &quot;Your push would publish a private email address&quot;](https://www.techielass.com/git-error-your-push-would-publish-a-private-email-address/)
 - [Weekly Update #115 - Microsoft Ignite Roundup](https://www.techielass.com/weekly-update-115/)
 - [Free Voucher for Windows Server exam with Microsoft Ignite Cloud Skills Challenge](https://www.techielass.com/free-voucher-for-windows-server-exam-with-microsoft-ignite-cloud-skills-challenge/)
 - [Why you should create a Microsoft Learn Profile](https://www.techielass.com/why-you-should-create-a-microsoft-learn-profile/)
 - [Weekly Update #114 - GitHub Universe, K8s YAML Generator and security breaches!](https://www.techielass.com/weekly-update-114/)
-- [Check the status of your local repository](https://www.techielass.com/check-the-status-of-your-local-repository-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
