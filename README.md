@@ -19,11 +19,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Vertical Dock for your Surface Device](https://www.youtube.com/watch?v=JACikVWPiJc)
 - [Weekly Update #115 - Microsoft Ignite Roundup Edition](https://www.youtube.com/watch?v=pmy7532oJd4)
 - [Weekly Update #114 - GitHub Universe, K8s YAML Generator and security breaches!](https://www.youtube.com/watch?v=TNNQ8AuRkPE)
 - [Weekly Update #113 - Quiet on the Azure front, new Google phone and rats chewing through broadband!](https://www.youtube.com/watch?v=4fMS6rgnzVM)
 - [My new career adventure!](https://www.youtube.com/watch?v=1koCLaSDDVQ)
-- [Weekly Update #112 - Azure Firewall, Container Insights, a week of outages and Apple share price!](https://www.youtube.com/watch?v=EE5ab7UyIDQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
