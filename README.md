@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [My Desk Setup - 2021 Version](https://www.techielass.com/home-office-setup-2021-version/)
 - [Query SQL with Azure Data Studio](https://www.techielass.com/query-sql-with-azure-data-studio/)
 - [Mount your Surface device with a Vertical Dock!](https://www.techielass.com/mount-your-surface-device-with-a-vertical-dock/)
 - [Git error &quot;Your push would publish a private email address&quot;](https://www.techielass.com/git-error-your-push-would-publish-a-private-email-address/)
 - [Weekly Update #115 - Microsoft Ignite Roundup](https://www.techielass.com/weekly-update-115/)
-- [Free Voucher for Windows Server exam with Microsoft Ignite Cloud Skills Challenge](https://www.techielass.com/free-voucher-for-windows-server-exam-with-microsoft-ignite-cloud-skills-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
