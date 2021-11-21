@@ -19,11 +19,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Is getting Microsoft Certified worth it?](https://www.youtube.com/watch?v=qdwXXJ4H1Rk)
 - [Weekly Update #116 - We have SFTP in Azure!](https://www.youtube.com/watch?v=JeX7G3mWTeI)
 - [My Desk Setup](https://www.youtube.com/watch?v=UhJP8AR73do)
 - [Sarah &amp; Lisa Ask Me Anything](https://www.youtube.com/watch?v=K193gdpDLdE)
 - [Vertical Dock for your Surface Device](https://www.youtube.com/watch?v=JACikVWPiJc)
-- [Weekly Update #115 - Microsoft Ignite Roundup Edition](https://www.youtube.com/watch?v=pmy7532oJd4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
