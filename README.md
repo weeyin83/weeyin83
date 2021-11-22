@@ -20,10 +20,10 @@ My passion is technology, and I love to help people understand what it can do to
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [What&#39;s the best way to prepare for a Microsoft exam?](https://www.youtube.com/watch?v=Av-6bZIF-EA)
-- [Is getting Microsoft Certified worth it?](https://www.youtube.com/watch?v=qdwXXJ4H1Rk)
 - [Weekly Update #116 - We have SFTP in Azure!](https://www.youtube.com/watch?v=JeX7G3mWTeI)
-- [My Desk Setup](https://www.youtube.com/watch?v=UhJP8AR73do)
 - [Sarah &amp; Lisa Ask Me Anything](https://www.youtube.com/watch?v=K193gdpDLdE)
+- [Weekly Update #114 - GitHub Universe, K8s YAML Generator and security breaches!](https://www.youtube.com/watch?v=TNNQ8AuRkPE)
+- [Weekly Update #111 - Azure DevOps, Ubuntu, System Outages, Windows 11](https://www.youtube.com/watch?v=9_vaIBMX3J4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
