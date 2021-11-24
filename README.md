@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Livestream: Sarah &amp; Lisa Ask Me Anything](https://www.techielass.com/sarah-lisa-ask-me-anything/)
 - [Revert those changes in Git](https://www.techielass.com/git-revert-last-commit/)
 - [Weekly Update #116 - We have SFTP in Azure!](https://www.techielass.com/weekly-update-116/)
 - [My Desk Setup - 2021 Version](https://www.techielass.com/home-office-setup-2021-version/)
 - [Query SQL with Azure Data Studio](https://www.techielass.com/query-sql-with-azure-data-studio/)
-- [Mount your Surface device with a Vertical Dock!](https://www.techielass.com/mount-your-surface-device-with-a-vertical-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
