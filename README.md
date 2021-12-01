@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Festive Tech Calendar 2021](https://www.techielass.com/festive-tech-calendar-2021/)
 - [Monetizing With Buy Me A Coffee, Does It Work?](https://www.techielass.com/buy-me-a-coffee/)
 - [Livestream: Is getting Microsoft Certified worth it?](https://www.techielass.com/is-getting-microsoft-certified-worth-it/)
 - [Weekly Update #117 - The Glasgow Azure User Group is back](https://www.techielass.com/weekly-update-117/)
 - [Livestream: Sarah &amp; Lisa Ask Me Anything](https://www.techielass.com/sarah-lisa-ask-me-anything/)
-- [Revert those changes in Git](https://www.techielass.com/git-revert-last-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
