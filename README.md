@@ -19,11 +19,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #118 - Octopus Deploy &amp; AWS Re:Invent](https://www.youtube.com/watch?v=BPrMEMnuy6E)
 - [Is getting Microsoft Certified worth it?](https://www.youtube.com/watch?v=qdwXXJ4H1Rk)
 - [Weekly Update #117 - The Glasgow Azure User Group is back](https://www.youtube.com/watch?v=Eg1HgtuJxuY)
 - [Octopus Deploy and DevOps | #shorts](https://www.youtube.com/watch?v=D3UUM2z4kFg)
 - [What&#39;s the best way to prepare for a Microsoft exam?](https://www.youtube.com/watch?v=Av-6bZIF-EA)
-- [Weekly Update #116 - We have SFTP in Azure!](https://www.youtube.com/watch?v=JeX7G3mWTeI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
