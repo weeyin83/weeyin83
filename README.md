@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Octopus Deploy?](https://www.techielass.com/what-is-octopus-deploy/)
 - [Weekly Update #118 - Octopus Deploy &amp; AWS Re:Invent](https://www.techielass.com/weekly-update-118/)
 - [Festive Tech Calendar 2021](https://www.techielass.com/festive-tech-calendar-2021/)
 - [Monetizing With Buy Me A Coffee, Does It Work?](https://www.techielass.com/buy-me-a-coffee/)
 - [Livestream: Is getting Microsoft Certified worth it?](https://www.techielass.com/is-getting-microsoft-certified-worth-it/)
-- [Weekly Update #117 - The Glasgow Azure User Group is back](https://www.techielass.com/weekly-update-117/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
