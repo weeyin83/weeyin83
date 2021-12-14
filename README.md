@@ -33,11 +33,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Livestream: What&#39;s the best way to prepare for a Microsoft exam?](https://www.techielass.com/whats-the-best-way-to-prepare-for-a-microsoft-exam/)
 - [Weekly Update #119 - Latest Azure and GitHub news](https://www.techielass.com/weekly-update-119/)
 - [What is Octopus Deploy?](https://www.techielass.com/what-is-octopus-deploy/)
 - [Weekly Update #118 - Octopus Deploy &amp; AWS Re:Invent](https://www.techielass.com/weekly-update-118/)
 - [Festive Tech Calendar 2021](https://www.techielass.com/festive-tech-calendar-2021/)
-- [Monetizing With Buy Me A Coffee, Does It Work?](https://www.techielass.com/buy-me-a-coffee/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
