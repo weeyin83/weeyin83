@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sarah Lean!
+# Hi there, I am Sarah Lean <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 
@@ -12,12 +12,13 @@ My passion is technology, and I love to help people understand what it can do to
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 <img src="https://github.com/weeyin83/weeyin83/blob/main/icons/Logo-Blue_140px_rgb.png" alt="Octopus Deploy" width="50" height="50"/><img src="https://github.com/weeyin83/weeyin83/blob/main/icons/azure.jpg" alt="Azure" width="50" height="50"/><img src="https://github.com/weeyin83/weeyin83/blob/main/icons/windows-logo.png" alt="Microsoft Windows" width="50" height="50"/><img src="https://github.com/weeyin83/weeyin83/blob/main/icons/powershell.svg" alt="PowerShell" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 
 ---
-📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
+
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Weekly Update #119 - Latest Azure and GitHub news](https://www.youtube.com/watch?v=EElf8BWx_8M)
 - [Sarah &amp; Lisa Ask Me Anything](https://www.youtube.com/watch?v=K193gdpDLdE)
@@ -30,7 +31,7 @@ My passion is technology, and I love to help people understand what it can do to
 
 ---
 
-📘 Latest Blog Articles
+## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Livestream: What&#39;s the best way to prepare for a Microsoft exam?](https://www.techielass.com/whats-the-best-way-to-prepare-for-a-microsoft-exam/)
