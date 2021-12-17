@@ -19,11 +19,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #120 - Countdown to the end of the year](https://www.youtube.com/watch?v=u030lH_bIQs)
 - [What is the Microsoft Cloud Adoption Framework?](https://www.youtube.com/watch?v=9ch1iuJJzgA)
 - [Weekly Update #119 - Latest Azure and GitHub news](https://www.youtube.com/watch?v=EElf8BWx_8M)
 - [Sarah &amp; Lisa Ask Me Anything](https://www.youtube.com/watch?v=K193gdpDLdE)
 - [Weekly Update #118 - Octopus Deploy &amp; AWS Re:Invent](https://www.youtube.com/watch?v=BPrMEMnuy6E)
-- [Is getting Microsoft Certified worth it?](https://www.youtube.com/watch?v=qdwXXJ4H1Rk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
