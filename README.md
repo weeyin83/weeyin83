@@ -19,11 +19,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is GitOps?](https://www.youtube.com/watch?v=6VzSy0zeH8I)
 - [What&#39;s the best way to prepare for a Microsoft exam?](https://www.youtube.com/watch?v=Av-6bZIF-EA)
 - [Glasgow Azure User Group #26](https://www.youtube.com/watch?v=P7IqzbouMMs)
 - [Weekly Update #120 - Countdown to the end of the year](https://www.youtube.com/watch?v=u030lH_bIQs)
 - [What is the Microsoft Cloud Adoption Framework?](https://www.youtube.com/watch?v=9ch1iuJJzgA)
-- [Weekly Update #119 - Latest Azure and GitHub news](https://www.youtube.com/watch?v=EElf8BWx_8M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
