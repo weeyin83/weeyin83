@@ -1,8 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sarah Lean!
+[![Sarah's GitHub Banner](/assets/GitHubHeader.png)](https://www.techielass.com)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/techielass?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=techielass)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=People%20subscribed%20to%20my%20YouTube%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/weeyin83)](https://badges.pufler.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sarahlean/)
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=People%20subscribed%20to%20my%20YouTube%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/techielass?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=techielass)
+
 
 I am Sarah Lean, and I've worked in IT for over 14 years including service provider, manufacturing, Scotch Whisky and local authority industries. I've served my time resetting passwords and triaging support calls, maintaining platforms, building infrastructure, migrating end of life systems and migrating data centers. I've been a subject matter expert in various solutions through my career including Microsoft Exchange, System center Configuration Manager and Patch Management, to name a few.
 
