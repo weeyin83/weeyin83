@@ -41,11 +41,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Octopus Deploy](https://www.techielass.com/getting-started-with-octopus-deploy/)
 - [2021 in Review](https://www.techielass.com/2021-in-review/)
 - [Jabra Elite 85t Review](https://www.techielass.com/jabra-elite-85t/)
 - [What is GitOps?](https://www.techielass.com/what-is-gitops/)
 - [Weekly Update #120 - Countdown to the end of the year](https://www.techielass.com/weekly-update-120/)
-- [Livestream: What&#39;s the best way to prepare for a Microsoft exam?](https://www.techielass.com/whats-the-best-way-to-prepare-for-a-microsoft-exam/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
