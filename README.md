@@ -41,11 +41,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Git clone a branch](https://www.techielass.com/git-clone-a-branch/)
 - [Highlights from #LenovoCES 2022](https://www.techielass.com/highlights-from/)
 - [Getting Started with Octopus Deploy](https://www.techielass.com/getting-started-with-octopus-deploy/)
 - [2021 in Review](https://www.techielass.com/2021-in-review/)
 - [Jabra Elite 85t Review](https://www.techielass.com/jabra-elite-85t/)
-- [What is GitOps?](https://www.techielass.com/what-is-gitops/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
