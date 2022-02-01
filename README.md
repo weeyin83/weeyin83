@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Action Runners](https://www.techielass.com/github-runners/)
 - [Speaking at the Dutch DevOps &amp; GitHub User Group](https://www.techielass.com/speaking-at-the-dutch-devops-github-user-group/)
 - [Opt into Azure Preview Features](https://www.techielass.com/opt-into-azure-preview-features/)
 - [Job Roles inside an IT Department](https://www.techielass.com/job-roles-inside-an-it-department/)
 - [Git clone a branch](https://www.techielass.com/git-clone-a-branch/)
-- [Highlights from #LenovoCES 2022](https://www.techielass.com/highlights-from/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
