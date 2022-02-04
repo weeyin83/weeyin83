@@ -8,7 +8,7 @@
 
 
 
-I am Sarah Lean, and I've worked in IT for over 14 years including service provider, manufacturing, Scotch Whisky and local authority industries. I've served my time resetting passwords and triaging support calls, maintaining platforms, building infrastructure, migrating end of life systems and migrating data centers. I've been a subject matter expert in various solutions through my career including Microsoft Exchange, System center Configuration Manager and Patch Management, to name a few.
+I am Sarah Lean, and I've worked in IT for over 17 years including service provider, manufacturing, Scotch Whisky and local authority industries. I've served my time resetting passwords and triaging support calls, maintaining platforms, building infrastructure, migrating end of life systems and migrating data centers. I've been a subject matter expert in various solutions through my career including Microsoft Exchange, System center Configuration Manager and Patch Management, to name a few.
 
 I am a STEM Ambassador and am hopeful that by sharing my story with the next generation it can help to inspire them into a STEM career. I am also the founder of the Glasgow Azure User Group, which is a community group that meets every two months and aims to bring together people who are looking to learn and network with their peers.
 
