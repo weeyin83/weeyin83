@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger an Octopus Deploy Runbook using an Elgato Stream deck!](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/)
 - [Find unused storage accounts in Azure](https://www.techielass.com/find-unused-storage-accounts-in-azure/)
 - [GitHub Action Runners](https://www.techielass.com/github-runners/)
 - [Speaking at the Dutch DevOps &amp; GitHub User Group](https://www.techielass.com/speaking-at-the-dutch-devops-github-user-group/)
 - [Opt into Azure Preview Features](https://www.techielass.com/opt-into-azure-preview-features/)
-- [Job Roles inside an IT Department](https://www.techielass.com/job-roles-inside-an-it-department/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
