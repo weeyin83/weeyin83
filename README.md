@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a new GitHub Repository from the command line](https://www.techielass.com/create-a-new-github-repository-from-the-command-line/)
 - [Automate Your Replies to GitHub Issues](https://www.techielass.com/automate-your-replies-to-github-issues/)
 - [Install GitHub CLI on Windows](https://www.techielass.com/install-github-cli-on-windows/)
 - [Trigger an Octopus Deploy Runbook using an Elgato Stream deck!](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/)
 - [Find unused storage accounts in Azure](https://www.techielass.com/find-unused-storage-accounts-in-azure/)
-- [GitHub Action Runners](https://www.techielass.com/github-runners/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
