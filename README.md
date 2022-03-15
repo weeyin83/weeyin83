@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Script the install of software](https://www.techielass.com/script-the-install-of-software/)
 - [Speaking at Limerick DotNet Azure User Group](https://www.techielass.com/speaking-at-limerick-dotnet-azure-user-group/)
 - [I am now a Microsoft MVP!](https://www.techielass.com/i-am-now-a-microsoft-mvp/)
 - [5 Cool Things About Azure Bicep Templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
 - [Looking back at February](https://www.techielass.com/looking-back-at-february/)
-- [Create a new GitHub Repository from the command line](https://www.techielass.com/create-a-new-github-repository-from-the-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
