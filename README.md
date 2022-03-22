@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Jabra Evolve2 75 Review](https://www.techielass.com/jabra-evolve2-75-review/)
 - [AWS Storage Classes explored](https://www.techielass.com/aws-storage-classes-explored/)
 - [Script the install of software](https://www.techielass.com/script-the-install-of-software/)
 - [Speaking at Limerick DotNet Azure User Group](https://www.techielass.com/speaking-at-limerick-dotnet-azure-user-group/)
 - [I am now a Microsoft MVP!](https://www.techielass.com/i-am-now-a-microsoft-mvp/)
-- [5 Cool Things About Azure Bicep Templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
