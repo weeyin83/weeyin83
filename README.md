@@ -28,11 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Azure Bicep?](https://www.youtube.com/watch?v=AkZqEIzgcZo)
 - [The reasons why Azure Bicep is so popular](https://www.youtube.com/watch?v=skptmDnvgwQ)
 - [Highlights from #LenovoCES 2022](https://www.youtube.com/watch?v=UHfBSQZ_LG8)
 - [Goofs and Outtakes](https://www.youtube.com/watch?v=j05KfBCEfUw)
 - [Azure Regions Announced in 2021](https://www.youtube.com/watch?v=Kr5MfGKQCJA)
-- [What is GitOps?](https://www.youtube.com/watch?v=6VzSy0zeH8I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
