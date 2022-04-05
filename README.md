@@ -28,11 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Install software using Windows Package Manager | Winget](https://www.youtube.com/watch?v=hkvcuLbD8XM)
 - [Join me for a live Q &amp; A](https://www.youtube.com/watch?v=meqQdZqjcm4)
 - [Azure Retirement Announcements](https://www.youtube.com/watch?v=4F0FYGs0N2s)
 - [Build your first Azure Bicep template](https://www.youtube.com/watch?v=yTMYp2cR_Bg)
 - [What is Azure Bicep?](https://www.youtube.com/watch?v=AkZqEIzgcZo)
-- [The reasons why Azure Bicep is so popular](https://www.youtube.com/watch?v=skptmDnvgwQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
