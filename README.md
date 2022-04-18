@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger a GitHub Actions workflow when a folder changes](https://www.techielass.com/trigger-a-github-action-workflow-when-a-folder-changes/)
 - [Chocolatey: what is it?](https://www.techielass.com/chocolatey-what-is-it/)
 - [Create Azure credentials for use in GitHub Actions](https://www.techielass.com/create-azure-credentials-for-use-in-github-actions/)
 - [Getting Started with Azure Bicep](https://www.techielass.com/getting-started-with-azure-bicep/)
 - [Speaking at Scottish Developers](https://www.techielass.com/speaking-2/)
-- [Jabra Evolve2 75 Review](https://www.techielass.com/jabra-evolve2-75-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
