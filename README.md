@@ -28,7 +28,7 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Create multiple virtual machine from the Azure CLI](https://www.youtube.com/watch?v=lW1Qrxy8QhA)
+- [Create multiple virtual machines from the Azure CLI](https://www.youtube.com/watch?v=lW1Qrxy8QhA)
 - [Create an Azure DevOps Service Connection to Octopus Deploy](https://www.youtube.com/watch?v=Ush8_3SdRi4)
 - [Talking tech with Techielass](https://www.youtube.com/watch?v=w032ROQf49g)
 - [Password Protect your Azure Static Web Apps](https://www.youtube.com/watch?v=ZQ2IaZ_66tY)
