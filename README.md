@@ -28,11 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to Delete a Repository in GitHub 2022](https://www.youtube.com/watch?v=u4qVRJOqMH0)
 - [Create multiple virtual machines from the Azure CLI](https://www.youtube.com/watch?v=lW1Qrxy8QhA)
 - [Create an Azure DevOps Service Connection to Octopus Deploy](https://www.youtube.com/watch?v=Ush8_3SdRi4)
 - [Talking tech with Techielass](https://www.youtube.com/watch?v=w032ROQf49g)
 - [Password Protect your Azure Static Web Apps](https://www.youtube.com/watch?v=ZQ2IaZ_66tY)
-- [Join me for a live Q &amp; A](https://www.youtube.com/watch?v=oAz_-eU-mno)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
