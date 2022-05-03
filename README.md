@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Lint?](https://www.techielass.com/what-is-linting/)
 - [Azure Retirement Announcements](https://www.techielass.com/azure-retirement-announcements/)
 - [What is Open Source?](https://www.techielass.com/what-is-open-source/)
 - [The future of hybrid](https://www.techielass.com/the-future-of-hybrid/)
 - [Trigger a GitHub Actions workflow when a folder changes](https://www.techielass.com/trigger-a-github-action-workflow-when-a-folder-changes/)
-- [Chocolatey: what is it?](https://www.techielass.com/chocolatey-what-is-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
