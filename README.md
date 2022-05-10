@@ -28,11 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Check the availability of an Azure storage account name](https://www.youtube.com/watch?v=qgRcpfH6OQ0)
 - [Azure Top 5 Updates - April 2022](https://www.youtube.com/watch?v=hhtWoRNNq3s)
 - [Join me for a live Q &amp; A](https://www.youtube.com/watch?v=gaA1nPcat5c)
 - [How to Delete a Repository in GitHub 2022](https://www.youtube.com/watch?v=u4qVRJOqMH0)
 - [Create multiple virtual machines from the Azure CLI](https://www.youtube.com/watch?v=lW1Qrxy8QhA)
-- [Create an Azure DevOps Service Connection to Octopus Deploy](https://www.youtube.com/watch?v=Ush8_3SdRi4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
