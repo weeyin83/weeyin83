@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Install cfn-lint on Windows](https://www.techielass.com/install-cfn-lint-on-windows/)
 - [AWS CloudFormation template explained](https://www.techielass.com/aws-cloudformation-template-explained/)
 - [Create an S3 Bucket using AWS CloudFormation](https://www.techielass.com/create-an-s3-bucket-using-aws-cloudformation/)
 - [What is Lint?](https://www.techielass.com/what-is-linting/)
 - [Azure Retirement Announcements](https://www.techielass.com/azure-retirement-announcements/)
-- [What is Open Source?](https://www.techielass.com/what-is-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
