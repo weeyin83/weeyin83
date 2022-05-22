@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 DevOps engineers to follow in 2022!](https://www.techielass.com/top-10-devops-engineers-to-follow-in-2022/)
 - [Source Control your AWS CloudFormation templates with GitHub](https://www.techielass.com/source-control-your-aws-cloudformation-templates-with-github/)
 - [Install cfn_nag on Windows](https://www.techielass.com/install-cfn-nag-on-windows/)
 - [Install cfn-lint on Windows](https://www.techielass.com/install-cfn-lint-on-windows/)
 - [AWS CloudFormation template explained](https://www.techielass.com/aws-cloudformation-template-explained/)
-- [Create an S3 Bucket using AWS CloudFormation](https://www.techielass.com/create-an-s3-bucket-using-aws-cloudformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
