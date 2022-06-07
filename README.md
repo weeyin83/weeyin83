@@ -28,11 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub News Highlights - May 2022](https://www.youtube.com/watch?v=CWQ5rc5Xhu8)
 - [Join me for a live Q &amp; A](https://www.youtube.com/watch?v=oAz_-eU-mno)
 - [Schedule GitHub Actions Using Cron Expressions](https://www.youtube.com/watch?v=kh7piyS2XeE)
 - [List all resources in a resource group using an Azure CLI Command](https://www.youtube.com/watch?v=Zptm7BCweN0)
 - [Check the availability of an Azure storage account name](https://www.youtube.com/watch?v=qgRcpfH6OQ0)
-- [Azure Top 5 Updates - April 2022](https://www.youtube.com/watch?v=hhtWoRNNq3s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
