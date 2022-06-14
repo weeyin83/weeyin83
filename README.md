@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Push an Empty Commit in Git](https://www.techielass.com/how-to-push-an-empty-commit-in-git/)
 - [Schedule GitHub Actions Using CRON Expressions](https://www.techielass.com/schedule-github-actions-using-cron-expressions/)
 - [Speaking at DATA:Scotland](https://www.techielass.com/speaking-at-data-scotland/)
 - [Blue Screen of Death when Hyper-V enabled](https://www.techielass.com/blue-screen-of-death-when-hyper-v-enabled/)
 - [Top 10 DevOps engineers to follow in 2022!](https://www.techielass.com/top-10-devops-engineers-to-follow-in-2022/)
-- [Source Control your AWS CloudFormation templates with GitHub](https://www.techielass.com/source-control-your-aws-cloudformation-templates-with-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
