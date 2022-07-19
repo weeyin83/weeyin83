@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Exchange Online PowerShell modules](https://www.techielass.com/install-exchange-online-powershell-modules/)
 - [Schedule a build in Azure DevOps using CRON Expressions](https://www.techielass.com/schedule-a-build-in-azure-devops-using-cron-expressions/)
 - [Lenovo ThinkPad X13 &lpar;Gen1&rpar; Review](https://www.techielass.com/lenovo-thinkpad-x13-review/)
 - [How to Push an Empty Commit in Git](https://www.techielass.com/how-to-push-an-empty-commit-in-git/)
 - [Schedule GitHub Actions Using CRON Expressions](https://www.techielass.com/schedule-github-actions-using-cron-expressions/)
-- [Speaking at DATA:Scotland](https://www.techielass.com/speaking-at-data-scotland/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
