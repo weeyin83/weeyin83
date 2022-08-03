@@ -28,11 +28,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Join me for a live Q &amp; A](https://www.youtube.com/watch?v=5thwec36Z0w)
 - [What are Azure DevOps Boards?](https://www.youtube.com/watch?v=Ad7KQ0j_VXY)
 - [Microsoft Build 2022 News Highlight Reel](https://www.youtube.com/watch?v=XlX5O92Gt84)
 - [GitHub News Highlights - May 2022](https://www.youtube.com/watch?v=CWQ5rc5Xhu8)
 - [Join me for a live Q &amp; A](https://www.youtube.com/watch?v=oAz_-eU-mno)
-- [Schedule GitHub Actions Using Cron Expressions](https://www.youtube.com/watch?v=kh7piyS2XeE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
