@@ -42,11 +42,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Stories from the DevOps Community - 12 August 2022](https://www.techielass.com/top-stories-from-the-devops-community/)
 - [A look back at July](https://www.techielass.com/news-from-july-2022/)
 - [My YouTube channel isn&#39;t monetized!](https://www.techielass.com/my-youtube-channel-isnt-monetized/)
 - [Enable External Email Warning Tag in Exchange Online](https://www.techielass.com/enable-external-email-warning-tag-in-exchange-online/)
 - [Install Exchange Online PowerShell modules](https://www.techielass.com/install-exchange-online-powershell-modules/)
-- [Schedule a build in Azure DevOps using CRON Expressions](https://www.techielass.com/schedule-a-build-in-azure-devops-using-cron-expressions/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
