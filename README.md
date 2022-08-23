@@ -27,11 +27,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introduction to Azure DevOps Repos](https://www.youtube.com/watch?v=hf6ZAo41nA8)
 - [Quickly find files on GitHub](https://www.youtube.com/watch?v=3zI6uPfsZx4)
 - [Migrate an Azure DevOps Repo to GitHub](https://www.youtube.com/watch?v=g0fgC4XkcSw)
 - [What are Azure DevOps Boards?](https://www.youtube.com/watch?v=Ad7KQ0j_VXY)
 - [Microsoft Build 2022 News Highlight Reel](https://www.youtube.com/watch?v=XlX5O92Gt84)
-- [GitHub News Highlights - May 2022](https://www.youtube.com/watch?v=CWQ5rc5Xhu8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
