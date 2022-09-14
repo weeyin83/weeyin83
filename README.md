@@ -41,11 +41,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is version control? - 14 days of Git](https://www.techielass.com/what-is-version-control/)
 - [14 days of Git](https://www.techielass.com/14-days-of-git/)
 - [The Redgate 100](https://www.techielass.com/redgate-100/)
 - [Top Stories from the DevOps Community - 29 August 2022](https://www.techielass.com/top-stories-from-the-devops-community-26-august-2022/)
 - [Top Stories from the DevOps Community - 22 August 2022](https://www.techielass.com/top-stories-from-the-devops-community-22-august-2022/)
-- [Top Stories from the DevOps Community - 12 August 2022](https://www.techielass.com/top-stories-from-the-devops-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
