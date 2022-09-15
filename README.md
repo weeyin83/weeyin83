@@ -17,7 +17,6 @@ My passion is technology, and I love to help people understand what it can do to
 
 🧰 Toolbox
 <!--Toolbox icons -->
-![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft-azure.svg?style=for-the-badge&logo=microsoftazure&color=1572B6)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
