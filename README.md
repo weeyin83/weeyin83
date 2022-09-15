@@ -27,11 +27,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Lenovo Tech Life 2022 - Highlights](https://www.youtube.com/watch?v=Fp2x12Lc2FY)
 - [How to delete a branch in GitHub | 2022 Tutorial](https://www.youtube.com/watch?v=CgLgebadl8Y)
 - [5 WAYS TO EXIT VIM](https://www.youtube.com/watch?v=Y45rYrJzbwo)
 - [VSCode Keyboard Shortcuts](https://www.youtube.com/watch?v=y16MHuwOj7E)
 - [Introduction to Azure DevOps Repos](https://www.youtube.com/watch?v=hf6ZAo41nA8)
-- [Quickly find files on GitHub](https://www.youtube.com/watch?v=3zI6uPfsZx4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
