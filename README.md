@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Git Commands to get started - 14 days of Git](https://www.techielass.com/basic-git-commands-to-get-started/)
 - [Installing Git - 14 days of Git](https://www.techielass.com/installing-git/)
 - [What is Git? - 14 days of Git](https://www.techielass.com/what-is-git/)
 - [What is version control? - 14 days of Git](https://www.techielass.com/what-is-version-control/)
 - [14 days of Git](https://www.techielass.com/14-days-of-git/)
-- [The Redgate 100](https://www.techielass.com/redgate-100/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
