@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Undoing commits &amp; changes - 14 days of Git](https://www.techielass.com/undoing-commits-changes/)
 - [Git File Operations - 14 days of Git](https://www.techielass.com/git-file-operations/)
 - [Inspect a Git repository - 14 days of Git](https://www.techielass.com/inspect-a-git-respository/)
 - [Basic Git Commands to get started - 14 days of Git](https://www.techielass.com/basic-git-commands-to-get-started/)
 - [Installing Git - 14 days of Git](https://www.techielass.com/installing-git/)
-- [What is Git? - 14 days of Git](https://www.techielass.com/what-is-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
