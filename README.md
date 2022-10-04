@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Stashing - 14 days of Git](https://www.techielass.com/git-stashing/)
 - [Git Rebasing - 14 days of Git](https://www.techielass.com/git-rebasing/)
 - [Merging with Git - 14 days of Git](https://www.techielass.com/merging-with-git/)
 - [Git branches - 14 days of Git](https://www.techielass.com/git-branches/)
 - [Rewriting Git History - 14 days of Git](https://www.techielass.com/rewriting-git-history/)
-- [Undoing commits &amp; changes - 14 days of Git](https://www.techielass.com/undoing-commits-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
