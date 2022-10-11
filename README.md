@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [I am speaking at Microsoft Ignite!](https://www.techielass.com/i-am-speaking-at-microsoft-ignite/)
 - [I&#39;m leaving Octopus Deploy!](https://www.techielass.com/im-leaving-octopus-deploy/)
 - [Subtrees and Submodules - 14 days of Git](https://www.techielass.com/subtrees-and-submodules/)
 - [Git Conflicts - 14 days of Git](https://www.techielass.com/git-conflicts/)
 - [Git Stashing - 14 days of Git](https://www.techielass.com/git-stashing/)
-- [Git Rebasing - 14 days of Git](https://www.techielass.com/git-rebasing/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
