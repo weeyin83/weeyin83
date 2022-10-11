@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Connect to a SQL database with Visual Studio Code](https://www.youtube.com/watch?v=7MYn-3E7Gi8)
 - [Create a new repository with GitHub Desktop | GitHub Desktop Tutorial 2022](https://www.youtube.com/watch?v=JBW6-5_RhUU)
 - [Create stand out demos and presentations](https://www.youtube.com/watch?v=zx3Zn2TWLYo)
 - [What is Microsoft Entra?](https://www.youtube.com/watch?v=EpJPIpilQq4)
 - [Lenovo Tech Life 2022 - Highlights](https://www.youtube.com/watch?v=Fp2x12Lc2FY)
-- [How to delete a branch in GitHub | 2022 Tutorial](https://www.youtube.com/watch?v=CgLgebadl8Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
