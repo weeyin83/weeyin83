@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Clone a repository with GitHub Desktop | GitHub Desktop Tutorial 2022](https://www.youtube.com/watch?v=PoZNIbs_wx8)
 - [What is the Azure Developer CLI tool?](https://www.youtube.com/watch?v=CAfB_K7vtvo)
 - [Azure Stack HCI announcements from Microsoft Ignite 2022](https://www.youtube.com/watch?v=25MmMmctd1w)
 - [What is Azure Stack HCI](https://www.youtube.com/watch?v=mwMP5Q9Z7PQ)
 - [Package Managers for Windows](https://www.youtube.com/watch?v=omzOqVKtHPU)
-- [Connect to a SQL database with Visual Studio Code](https://www.youtube.com/watch?v=7MYn-3E7Gi8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
