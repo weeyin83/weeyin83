@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Staying Connected](https://www.techielass.com/staying-connected/)
 - [Infrastructure as Code: The benefits and the tools](https://www.techielass.com/infrastructure-as-code-the-benefits-and-the-tools/)
 - [Running a user group in 2022](https://www.techielass.com/running-a-user-group-in-2022/)
 - [I am speaking at Microsoft Ignite!](https://www.techielass.com/i-am-speaking-at-microsoft-ignite/)
 - [I&#39;m leaving Octopus Deploy!](https://www.techielass.com/im-leaving-octopus-deploy/)
-- [Subtrees and Submodules - 14 days of Git](https://www.techielass.com/subtrees-and-submodules/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
