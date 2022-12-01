@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Azure Bicep using GitHub Actions](https://www.techielass.com/deploy-azure-bicep-using-github-actions/)
 - [Jabra Engage 55 Review](https://www.techielass.com/jabra-engage-55/)
 - [Staying Connected](https://www.techielass.com/staying-connected/)
 - [Infrastructure as Code: The benefits and the tools](https://www.techielass.com/infrastructure-as-code-the-benefits-and-the-tools/)
 - [Running a user group in 2022](https://www.techielass.com/running-a-user-group-in-2022/)
-- [I am speaking at Microsoft Ignite!](https://www.techielass.com/i-am-speaking-at-microsoft-ignite/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
