@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Study tips for AZ-400 | 2022 Guide](https://www.youtube.com/watch?v=ZAM2gbG3HeE)
 - [Clone a repository with GitKraken | GitKraken Tutorial 2022](https://www.youtube.com/watch?v=Mxd-0dO2uyI)
 - [What is GitHub? | 2022 Tutorial](https://www.youtube.com/watch?v=bnoh9cLxbLM)
 - [Clone a repository with GitHub Desktop | GitHub Desktop Tutorial 2022](https://www.youtube.com/watch?v=PoZNIbs_wx8)
 - [What is the Azure Developer CLI tool?](https://www.youtube.com/watch?v=CAfB_K7vtvo)
-- [Azure Stack HCI announcements from Microsoft Ignite 2022](https://www.youtube.com/watch?v=25MmMmctd1w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
