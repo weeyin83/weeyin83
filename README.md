@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Backup and Recovery?](https://www.techielass.com/what-is-backup-and-recovery/)
 - [Create your first Azure Bicep Template](https://www.techielass.com/create-your-first-azure-bicep-template/)
 - [Azure Stack HCI: The best of the cloud and on-premises](https://www.techielass.com/azure-stack-hci-the-best-of-the-cloud-and-on-premises/)
 - [Deploy Azure Bicep using GitHub Actions](https://www.techielass.com/deploy-azure-bicep-using-github-actions/)
 - [Jabra Engage 55 Review](https://www.techielass.com/jabra-engage-55/)
-- [Staying Connected](https://www.techielass.com/staying-connected/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
