@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Pipeline Tools](https://www.techielass.com/ci-cd-pipeline-tools/)
 - [Introduction to Terraform](https://www.techielass.com/introduction-to-terraform/)
 - [2022 in Review](https://www.techielass.com/2022-in-review/)
 - [Git Tags and Git Branches](https://www.techielass.com/git-tags-and-git-branches/)
 - [What is Backup and Recovery?](https://www.techielass.com/what-is-backup-and-recovery/)
-- [Create your first Azure Bicep Template](https://www.techielass.com/create-your-first-azure-bicep-template/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
