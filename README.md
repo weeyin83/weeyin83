@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions Secrets](https://www.techielass.com/github-actions-secrets/)
 - [Install Terraform in the AWS CloudShell](https://www.techielass.com/install-terraform-in-the-aws-cloudshell/)
 - [CI/CD Pipeline Tools](https://www.techielass.com/ci-cd-pipeline-tools/)
 - [Introduction to Terraform](https://www.techielass.com/introduction-to-terraform/)
 - [2022 in Review](https://www.techielass.com/2022-in-review/)
-- [Git Tags and Git Branches](https://www.techielass.com/git-tags-and-git-branches/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
