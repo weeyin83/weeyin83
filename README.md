@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure VM Series explained](https://www.techielass.com/azure-vm-series-explained/)
 - [Deploy Azure Resources with Terraform](https://www.techielass.com/deploy-azure-resources-with-terraform/)
 - [GitHub Actions Secrets](https://www.techielass.com/github-actions-secrets/)
 - [Install Terraform in the AWS CloudShell](https://www.techielass.com/install-terraform-in-the-aws-cloudshell/)
 - [CI/CD Pipeline Tools](https://www.techielass.com/ci-cd-pipeline-tools/)
-- [Introduction to Terraform](https://www.techielass.com/introduction-to-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
