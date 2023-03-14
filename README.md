@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Harvst Sprout S10 - Smart Greenhouse](https://www.youtube.com/watch?v=kUD2FJLMZaQ)
 - [My 2022 Highlights](https://www.youtube.com/watch?v=2uB-sMW1d-M)
 - [Azure Stack HCI: The best of the cloud and on-premises](https://www.youtube.com/watch?v=QZu3zF2UR8Y)
 - [What is the Well Architected Framework?](https://www.youtube.com/watch?v=0M_QZu4yWjI)
 - [Study tips for AZ-400 | 2022 Guide](https://www.youtube.com/watch?v=ZAM2gbG3HeE)
-- [Clone a repository with GitKraken | GitKraken Tutorial 2022](https://www.youtube.com/watch?v=Mxd-0dO2uyI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
