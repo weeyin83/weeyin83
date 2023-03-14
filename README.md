@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Admin Center in Azure](https://www.techielass.com/windows-admin-centre-in-azure/)
 - [I am a Linkedin Learning Instructor!](https://www.techielass.com/i-am-a-linkedin-learning-instructor/)
 - [Jabra Evolve2 Buds Review](https://www.techielass.com/jabra-evolve2-buds-review/)
 - [Veeam Vanguard 2023](https://www.techielass.com/veeam-vanguard-2023/)
 - [Understanding Azure Savings Plans for Compute](https://www.techielass.com/understanding-azure-savings-plans-for-compute/)
-- [Azure VM Series explained](https://www.techielass.com/azure-vm-series-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
