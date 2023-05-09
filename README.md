@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Use the GitHub Web Editor!](https://www.youtube.com/watch?v=0m9tf2iW0Dg)
 - [Weekly Update #121 - Comeback!](https://www.youtube.com/watch?v=nyDywWs7s9Q)
 - [Find Files easily in GitHub!](https://www.youtube.com/watch?v=7-FtCi1ouMM)
 - [Lenovo MWC23 Recap](https://www.youtube.com/watch?v=OncfitMWTFs)
 - [Harvst Sprout S10 - Smart Greenhouse](https://www.youtube.com/watch?v=kUD2FJLMZaQ)
-- [My 2022 Highlights](https://www.youtube.com/watch?v=2uB-sMW1d-M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
