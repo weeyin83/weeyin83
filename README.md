@@ -26,7 +26,7 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Terraform explained in 10 mins | Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=h6rkauDhDUM)
+- [Terraform explained in 10 mins | Terraform Tutorial for Beginners | 2023](https://www.youtube.com/watch?v=h6rkauDhDUM)
 - [Weekly Update #122 - 11th May 2023](https://www.youtube.com/watch?v=qM1y1ConxMg)
 - [Use the GitHub Web Editor!](https://www.youtube.com/watch?v=0m9tf2iW0Dg)
 - [Weekly Update #121 - Comeback!](https://www.youtube.com/watch?v=nyDywWs7s9Q)
