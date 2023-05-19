@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #123 - 19th May 2023](https://www.youtube.com/watch?v=Pc_Xlazv5zA)
 - [Terraform explained in 10 mins | Terraform Tutorial for Beginners | 2023](https://www.youtube.com/watch?v=h6rkauDhDUM)
 - [Weekly Update #122 - 11th May 2023](https://www.youtube.com/watch?v=qM1y1ConxMg)
 - [Use the GitHub Web Editor!](https://www.youtube.com/watch?v=0m9tf2iW0Dg)
 - [Weekly Update #121 - Comeback!](https://www.youtube.com/watch?v=nyDywWs7s9Q)
-- [Find Files easily in GitHub!](https://www.youtube.com/watch?v=7-FtCi1ouMM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
