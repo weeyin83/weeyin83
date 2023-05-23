@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Azure Arc?](https://www.techielass.com/what-is-azure-arc/)
 - [How to prepare for the HashiCorp Terraform Associate Certification](https://www.techielass.com/how-to-prepare-for-hashicorp-terraform-associate-certification/)
 - [Jabra Speak2 75 review](https://www.techielass.com/jabra-speak2-75-review/)
 - [Weekly Azure Updates](https://www.techielass.com/weekly-azure-updates/)
 - [Introduction to DORA Metrics](https://www.techielass.com/introduction-to-dora-metrics/)
-- [Azure Service Principals and Azure Managed Identities](https://www.techielass.com/azure-service-principals-and-azure-managed-identities/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
