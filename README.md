@@ -26,11 +26,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #125 - 2nd June 2023](https://www.youtube.com/watch?v=TRAAYIU4AaA)
 - [Register for the Azure API Center Public Preview](https://www.youtube.com/watch?v=GxIPryH1-V8)
 - [Microsoft Build 2023 News Highlight Reel](https://www.youtube.com/watch?v=PZZXXv1u74I)
 - [Use GitHub like a PRO! 8 Top Features](https://www.youtube.com/watch?v=i0-FQzMireY)
 - [Weekly Update #123 - 19th May 2023](https://www.youtube.com/watch?v=Pc_Xlazv5zA)
-- [Terraform explained in 10 mins | Terraform Tutorial for Beginners | 2023](https://www.youtube.com/watch?v=h6rkauDhDUM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
