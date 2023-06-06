@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [SSH to a Linux server from Windows 11](https://www.techielass.com/ssh-to-a-linux-server-from-windows-11/)
 - [Register and Manage Linux Servers with Azure Arc Tutorial](https://www.techielass.com/register-and-manage-linux-servers-with-azure-arc-tutorial/)
 - [Microsoft Build 2023 News Round Up](https://www.techielass.com/microsoft-build-2023-news-round-up/)
 - [What is Azure Arc?](https://www.techielass.com/what-is-azure-arc/)
 - [How to prepare for the HashiCorp Terraform Associate Certification](https://www.techielass.com/how-to-prepare-for-hashicorp-terraform-associate-certification/)
-- [Jabra Speak2 75 review](https://www.techielass.com/jabra-speak2-75-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
