@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up a dev container for Terraform in GitHub Codespaces](https://www.techielass.com/set-up-a-dev-container-for-terraform-in-github-codespaces/)
 - [Getting started with GitHub Codespaces](https://www.techielass.com/getting-started-with-github-codespaces/)
 - [Using Azure Export for Terraform to import existing Azure resources into Terraform](https://www.techielass.com/using-azure-export-for-terraform-to-import-existing-azure-resources-into-terraform/)
 - [SSH to a Linux server from Windows 11](https://www.techielass.com/ssh-to-a-linux-server-from-windows-11/)
 - [Register and Manage Linux Servers with Azure Arc Tutorial](https://www.techielass.com/register-and-manage-linux-servers-with-azure-arc-tutorial/)
-- [Microsoft Build 2023 News Round Up](https://www.techielass.com/microsoft-build-2023-news-round-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
