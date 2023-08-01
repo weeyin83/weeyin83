@@ -40,11 +40,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a AWS S3 bucket with Terraform](https://www.techielass.com/deploy-a-aws-s3-bucket-with-terraform/)
 - [How to use GitHub Actions environment variables](https://www.techielass.com/how-to-use-github-actions-environment-variables/)
 - [What&#39;s in my bag as a speaker?](https://www.techielass.com/whats-in-my-bag-as-a-speaker/)
 - [Set up a dev container for Terraform in GitHub Codespaces](https://www.techielass.com/set-up-a-dev-container-for-terraform-in-github-codespaces/)
 - [Getting started with GitHub Codespaces](https://www.techielass.com/getting-started-with-github-codespaces/)
-- [Using Azure Export for Terraform to import existing Azure resources into Terraform](https://www.techielass.com/using-azure-export-for-terraform-to-import-existing-azure-resources-into-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
