@@ -47,8 +47,10 @@ My passion is technology, and I love to help people understand what it can do to
 ▶ [...more blog articles](https://www.techielass.com)
 
 ---
+
 <h3 align="left">Like my work?</h3>
 <p><a href="https://www.buymeacoffee.com/techielass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techielass" /></a></p><br><br>
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
