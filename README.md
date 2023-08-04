@@ -1,10 +1,10 @@
-[![Sarah's GitHub Banner](/assets/GitHubHeader.png)](https://www.techielass.com)
+<h1 align="center">Hi 👋, I'm Sarah Lean</h1>
+<h3 align="center">Senior Cloud Solution Architect...</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/techielass?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=techielass)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=People%20subscribed%20to%20my%20YouTube%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://in.linkedin.com/in/sazlean)
 ---
-
 
 
 I am Sarah Lean, and I've worked in IT for over 17 years including service provider, manufacturing, Scotch Whisky and local authority industries. I've served my time resetting passwords and triaging support calls, maintaining platforms, building infrastructure, migrating end of life systems and migrating data centers. I've been a subject matter expert in various solutions through my career including Microsoft Exchange, System center Configuration Manager and Patch Management, to name a few.
@@ -15,13 +15,10 @@ My passion is technology, and I love to help people understand what it can do to
 
 ---
 
-🧰 Toolbox
+🧰 Languages and Tools:
 <!--Toolbox icons -->
-![Microsoft Azure](https://img.shields.io/badge/microsoft-azure.svg?style=for-the-badge&logo=microsoftazure&color=1572B6)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![PowerShell](https://img.shields.io/badge/powershell-0D80D8?style=for-the-badge&logo=powershell&logoColor=white)
-![WindowsServer](https://img.shields.io/badge/windows%20server-FFB900?style=for-the-badge&logo=windows&logoColor=white)
+
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_bicep.svg" alt="Azure Bicep" width="40" height="40"/> <a href="https://learn.microsoft.com/powershell/scripting/overview?view=powershell-7.3" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell2.svg" alt="PowerShell" width="40" height="40"/> </p>
 
 ---
 📺 Latest YouTube Videos
@@ -49,6 +46,9 @@ My passion is technology, and I love to help people understand what it can do to
 
 ▶ [...more blog articles](https://www.techielass.com)
 
+---
+<h3 align="left">Like my work?</h3>
+<p><a href="https://www.buymeacoffee.com/techielass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techielass" /></a></p><br><br>
 ---
 
 ## &#x1f4c8; My GitHub Stats
