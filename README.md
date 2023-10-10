@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to install GitHub Desktop 2023](https://www.youtube.com/watch?v=P8z4MEGcxh0)
 - [How to Create a Repository in GitHub 2023](https://www.youtube.com/watch?v=IX4_12SFxak)
 - [Terraform vs Azure Bicep](https://www.youtube.com/watch?v=omT4NWzAs4A)
 - [Weekly Update #125 - 2nd June 2023](https://www.youtube.com/watch?v=TRAAYIU4AaA)
 - [Register for the Azure API Center Public Preview](https://www.youtube.com/watch?v=GxIPryH1-V8)
-- [Microsoft Build 2023 News Highlight Reel](https://www.youtube.com/watch?v=PZZXXv1u74I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
