@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Arc Windows and Linux Dashboard](https://www.techielass.com/azure-arc-windows-and-linux-dashboard/)
 - [Updating the Azure Arc Agent &lpar;Connected Machine Agent&rpar;](https://www.techielass.com/updating-the-azure-arc-agent-connected-machine-agent/)
 - [Streamline Your Workflow with GitHub Desktop](https://www.techielass.com/streamline-your-workflow-with-github-desktop/)
 - [Create a .gitignore file for Terraform](https://www.techielass.com/create-a-gitignore-file-for-terraform/)
 - [How to format Terraform code](https://www.techielass.com/terraform-fmt/)
-- [Cast your vote for me in the UK Community Awards!](https://www.techielass.com/cast-your-vote-for-me-in-the-uk-community-awards/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
