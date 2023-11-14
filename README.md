@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Azure Resource Graph](https://www.techielass.com/getting-started-with-azure-resource-graph/)
 - [Move an Azure Arc-enabled Server to a different resource group](https://www.techielass.com/move-an-azure-arc-enabled-server-to-a-different-resource-group/)
 - [What is Azure Front Door?](https://www.techielass.com/what-is-azure-front-door/)
 - [Hands on: Lenovo ThinkPad X1 Fold 16 Gen 1](https://www.techielass.com/hands-on-lenovo-thinkpad-x1-fold-16-gen-1/)
 - [What is Cloud-native?](https://www.techielass.com/what-is-cloud-native/)
-- [Azure Arc Windows and Linux Dashboard](https://www.techielass.com/azure-arc-windows-and-linux-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
