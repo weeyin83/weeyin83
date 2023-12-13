@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Session: Azure Dashboards](https://www.techielass.com/live-session-windows-server-upgrade-and-migration-on-prem-to-and-in-azure/)
 - [Unleashing the Power of Azure Arc: Enabling SQL Server Across Hybrid Environments](https://www.techielass.com/unleashing-the-power-of-azure-arc-enabling-sql-server-across-hybrid-environments/)
 - [Troubleshooting Azure Arc for Servers](https://www.techielass.com/troubleshooting-azure-arc-for-servers/)
 - [Deploy an Azure Dashboard using Terraform](https://www.techielass.com/deploy-an-azure-dashboard-using-terraform/)
 - [Getting started with Azure Resource Graph](https://www.techielass.com/getting-started-with-azure-resource-graph/)
-- [Move an Azure Arc-enabled Server to a different resource group](https://www.techielass.com/move-an-azure-arc-enabled-server-to-a-different-resource-group/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
