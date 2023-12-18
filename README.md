@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Glasgow Azure User Group 2023 Wrap Up](https://www.youtube.com/watch?v=WriDluoXV-s)
 - [Azure Public Preview Announcments](https://www.youtube.com/watch?v=sc-7rnk-O78)
 - [Azure Dashboards](https://www.youtube.com/watch?v=CE6aieJ1sJo)
 - [GitHub Actions Secrets: Security Best Practices](https://www.youtube.com/watch?v=dLoCVRLYAAk)
 - [How to customise GitHub Desktop 2023](https://www.youtube.com/watch?v=CLrv9Jcv7Bg)
-- [How to log out of GitHub Desktop 2023](https://www.youtube.com/watch?v=tgsDb-0XYL8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
