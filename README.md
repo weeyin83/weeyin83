@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to push code to GitHub | 2023 Tutorial](https://www.youtube.com/watch?v=9823okRijgU)
 - [Live Q &amp; A](https://www.youtube.com/watch?v=RbvoPUAcVmQ)
 - [Azure Public Preview Announcments](https://www.youtube.com/watch?v=sc-7rnk-O78)
 - [Glasgow Azure User Group 2023 Wrap Up](https://www.youtube.com/watch?v=WriDluoXV-s)
 - [Azure Dashboards](https://www.youtube.com/watch?v=CE6aieJ1sJo)
-- [GitHub Actions Secrets: Security Best Practices](https://www.youtube.com/watch?v=dLoCVRLYAAk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
