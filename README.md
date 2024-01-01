@@ -24,7 +24,7 @@ My passion is technology, and I love to help people understand what it can do to
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Weekly Update #125 - 2nd June 2023](https://www.youtube.com/watch?v=_6JzLf4lno8)
-- [How to push code to GitHub | 2023 Tutorial](https://www.youtube.com/watch?v=9823okRijgU)
+- [How to push code to GitHub | 2024 Tutorial](https://www.youtube.com/watch?v=9823okRijgU)
 - [Live Q &amp; A](https://www.youtube.com/watch?v=RbvoPUAcVmQ)
 - [Azure Public Preview Announcments](https://www.youtube.com/watch?v=sc-7rnk-O78)
 - [Glasgow Azure User Group 2023 Wrap Up](https://www.youtube.com/watch?v=WriDluoXV-s)
