@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Loudoun Hill, Scotland #scotlandshots #scotlandexplore #scotlandtravel #scotlandtrip #visitscotland](https://www.youtube.com/watch?v=GpUO4lc4zZg)
 - [Weekly Update #126 - 12th January 2024](https://www.youtube.com/watch?v=kk0V3FzElaE)
 - [How to Delete a Repository in GitHub 2024](https://www.youtube.com/watch?v=2lAiHlXTY0s)
 - [Weekly Update #125 - 2nd June 2023](https://www.youtube.com/watch?v=_6JzLf4lno8)
 - [How to push code to GitHub | 2024 Tutorial](https://www.youtube.com/watch?v=9823okRijgU)
-- [Azure Public Preview Announcments](https://www.youtube.com/watch?v=sc-7rnk-O78)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
