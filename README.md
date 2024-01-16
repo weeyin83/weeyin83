@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshoot Windows Server 2012 Arc-enabled servers not receiving updates](https://www.techielass.com/troubleshoot-windows-server-2012-arc-enabled-servers-not-receiving-updates/)
 - [Unveiling &#39;Terraform for Ops&#39;: A new e-book](https://www.techielass.com/terraform-for-ops-announcement/)
 - [Automating Storage Account and Service Principal Creation with Terraform](https://www.techielass.com/automating-storage-account-and-service-principal-creation-with-terraform/)
 - [A Step-by-Step Guide to Deleting a Repository on GitHub](https://www.techielass.com/a-step-by-step-guide-to-deleting-a-repository-on-github/)
 - [Looking back at 2023!](https://www.techielass.com/looking-back-at-2023/)
-- [Live Session: Azure Dashboards](https://www.techielass.com/live-session-windows-server-upgrade-and-migration-on-prem-to-and-in-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
