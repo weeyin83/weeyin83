@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Remove a Resource From Terraform State File](https://www.techielass.com/terraform-state-rm/)
 - [Check if network connectivity for Azure Connected Machine Agent is blocked - Azure Arc](https://www.techielass.com/check-if-network-connectivity-for-azure-connected-machine-agent-is-blocked-azure-arc/)
 - [Troubleshoot Windows Server 2012 Arc-enabled servers not receiving updates](https://www.techielass.com/troubleshoot-windows-server-2012-arc-enabled-servers-not-receiving-updates/)
 - [Unveiling &#39;Terraform for Ops&#39;: A new e-book](https://www.techielass.com/terraform-for-ops-announcement/)
 - [Automating Storage Account and Service Principal Creation with Terraform](https://www.techielass.com/automating-storage-account-and-service-principal-creation-with-terraform/)
-- [A Step-by-Step Guide to Deleting a Repository on GitHub](https://www.techielass.com/a-step-by-step-guide-to-deleting-a-repository-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
