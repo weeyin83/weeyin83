@@ -15,13 +15,13 @@ My passion is technology, and I love to help people understand what it can do to
 
 ---
 
-🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <!--Toolbox icons -->
 
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_bicep.svg" alt="Azure Bicep" width="40" height="40"/> <a href="https://learn.microsoft.com/powershell/scripting/overview?view=powershell-7.3" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell2.svg" alt="PowerShell" width="40" height="40"/> </p>
 
 ---
-📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Weekly Update #128 - 26th January 2024](https://www.youtube.com/watch?v=ZH80f89yhSI)
 - [Where does an organization begin using Azure?](https://www.youtube.com/watch?v=MnzCoSb-pKY)
@@ -34,7 +34,7 @@ My passion is technology, and I love to help people understand what it can do to
 
 ---
 
-📘 Latest Blog Articles
+## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Remove a Resource From Terraform State File](https://www.techielass.com/terraform-state-rm/)
