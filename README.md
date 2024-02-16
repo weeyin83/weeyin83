@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #131 - 16th February 2024](https://www.youtube.com/watch?v=yWq2dSWwDl8)
 - [Git for Beginners | Git Tutorial](https://www.youtube.com/watch?v=loXgZHk0MRg)
 - [Weekly Update #130 - 9th February 2024](https://www.youtube.com/watch?v=EimKYSrpk74)
 - [Weekly Update #129 - 2nd February 2024](https://www.youtube.com/watch?v=vOF2I6DXvRg)
 - [Weekly Update #128 - 26th January 2024](https://www.youtube.com/watch?v=ZH80f89yhSI)
-- [Where does an organization begin using Azure?](https://www.youtube.com/watch?v=MnzCoSb-pKY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
