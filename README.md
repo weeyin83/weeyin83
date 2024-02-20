@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to clone a GitHub repo using GitKraken](https://www.techielass.com/how-to-clone-a-github-repo-using-gitkraken/)
 - [How to apply ESU patches to your SQL Server 2012 servers](https://www.techielass.com/how-to-apply-esu-patches-to-your-sql-server-2012-servers/)
 - [GitKraken: The Graphical User Interface for Git](https://www.techielass.com/gitkraken-the-graphical-user-interface-for-git/)
 - [How to Remove a Resource From Terraform State File](https://www.techielass.com/terraform-state-rm/)
 - [Check if network connectivity for Azure Connected Machine Agent is blocked - Azure Arc](https://www.techielass.com/check-if-network-connectivity-for-azure-connected-machine-agent-is-blocked-azure-arc/)
-- [Troubleshoot Windows Server 2012 Arc-enabled servers not receiving updates](https://www.techielass.com/troubleshoot-windows-server-2012-arc-enabled-servers-not-receiving-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
