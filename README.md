@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Clone Branch – How to Clone a Specific Branch](https://www.techielass.com/git-clone-branch-how-to-clone-a-specific-branch/)
 - [Should .terraform.lock.hcl be included in the .gitignore file?](https://www.techielass.com/should-terraform-lock-hcl-be-included-in-the-gitignore-file/)
 - [How to clone a GitHub repo using GitKraken](https://www.techielass.com/how-to-clone-a-github-repo-using-gitkraken/)
 - [How to apply ESU patches to your SQL Server 2012 servers](https://www.techielass.com/how-to-apply-esu-patches-to-your-sql-server-2012-servers/)
 - [GitKraken: The Graphical User Interface for Git](https://www.techielass.com/gitkraken-the-graphical-user-interface-for-git/)
-- [How to Remove a Resource From Terraform State File](https://www.techielass.com/terraform-state-rm/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
