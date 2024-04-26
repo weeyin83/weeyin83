@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #138 - 26th April 2024](https://www.youtube.com/watch?v=JWepuGskMgc)
 - [How to push code from VS Code to GitHub | 2024 Tutorial](https://www.youtube.com/watch?v=aM9BHJkaQoo)
 - [Weekly Update #137 - 19th April 2024](https://www.youtube.com/watch?v=c8OAANcqyGA)
 - [Weekly Update #136 - 5th April 2024](https://www.youtube.com/watch?v=GMNNUPnqXlc)
 - [Weekly Update #135 - 22nd March 2024](https://www.youtube.com/watch?v=IhySy3jfJfM)
-- [Weekly Update #134 - 15th March 2024](https://www.youtube.com/watch?v=6pMuwx8cYwk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
