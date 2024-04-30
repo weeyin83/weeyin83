@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Terraform Console Command](https://www.techielass.com/how-to-use-terraform-console-command/)
 - [Introduction to Azure Arc Site Manager](https://www.techielass.com/introduction-to-azure-arc-site-manager/)
 - [How to push from GitHub Desktop to GitHub](https://www.techielass.com/how-to-push-from-github-desktop-to-github/)
 - [What is Terrascan?](https://www.techielass.com/what-is-terrascan/)
 - [What is a large language model &lpar;LLM&rpar;?](https://www.techielass.com/what-is-a-large-language-model-llm/)
-- [Git Clone Branch – How to Clone a Specific Branch](https://www.techielass.com/git-clone-branch-how-to-clone-a-specific-branch/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
