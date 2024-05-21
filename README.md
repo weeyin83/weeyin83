@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure Resource Graph Power BI Data Connector](https://www.youtube.com/watch?v=AOjYIfrqVDs)
 - [Introduction to Terraform Outputs](https://www.youtube.com/watch?v=GUax2r03hmA)
 - [Weekly Update #139 - 10th May 2024](https://www.youtube.com/watch?v=XOn9ulZEO9o)
 - [Weekly Update #138 - 26th April 2024](https://www.youtube.com/watch?v=JWepuGskMgc)
 - [How to push code from VS Code to GitHub | 2024 Tutorial](https://www.youtube.com/watch?v=aM9BHJkaQoo)
-- [Weekly Update #137 - 19th April 2024](https://www.youtube.com/watch?v=c8OAANcqyGA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
