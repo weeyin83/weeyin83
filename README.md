@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Retrieving API Fields from an Azure Static Web App Using a Bash Script](https://www.techielass.com/retrieving-api-fields-from-an-azure-static-web-app-using-a-bash-script/)
 - [Querying DNS Records with PowerShell](https://www.techielass.com/querying-dns-records-with-powershell/)
 - [How to push code from VS Code to GitHub](https://www.techielass.com/how-to-push-code-from-vs-code-to-github/)
 - [Azure Hybrid Benefit Dashboard](https://www.techielass.com/azure-hybrid-benefit-dashboard/)
 - [Join Me on a Journey with Memberships and Super Thanks on YouTube!](https://www.techielass.com/join-me-on-a-journey-with-memberships-and-super-thanks-on-youtube/)
-- [Introduction to Terraform Outputs](https://www.techielass.com/introduction-to-terraform-outputs/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
