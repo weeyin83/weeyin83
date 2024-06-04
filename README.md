@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Come with me to HashiDays London. #hashidays #hashicorp](https://www.youtube.com/watch?v=Vw2ihrYcVX4)
 - [Weekly Update #141 - 31st May 2024](https://www.youtube.com/watch?v=RGBv87b-45o)
 - [Weekly Update #140 - Microsoft Build edition - 24th May 2024](https://www.youtube.com/watch?v=DXap0S43Ve8)
 - [Azure Resource Graph Power BI Data Connector](https://www.youtube.com/watch?v=AOjYIfrqVDs)
 - [Introduction to Terraform Outputs](https://www.youtube.com/watch?v=GUax2r03hmA)
-- [Weekly Update #139 - 10th May 2024](https://www.youtube.com/watch?v=XOn9ulZEO9o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
