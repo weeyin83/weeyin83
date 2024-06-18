@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to check if an Azure Marketplace image is marked for deprecation](https://www.techielass.com/how-to-check-if-an-azure-marketplace-image-is-marked-for-deprecation/)
 - [What is HashiCorp Vault?](https://www.techielass.com/what-is-hashicorp-vault/)
 - [Tune In to &quot;Talking Tech with Techielass&quot; – Your Weekly Azure Update in Under 5 Minutes!](https://www.techielass.com/tune-in-to-talking-tech-with-techielass-your-weekly-azure-update-in-under-5-minutes/)
 - [Retrieving API Fields from an Azure Static Web App Using a Bash Script](https://www.techielass.com/retrieving-api-fields-from-an-azure-static-web-app-using-a-bash-script/)
 - [Querying DNS Records with PowerShell](https://www.techielass.com/querying-dns-records-with-powershell/)
-- [How to push code from VS Code to GitHub](https://www.techielass.com/how-to-push-code-from-vs-code-to-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
