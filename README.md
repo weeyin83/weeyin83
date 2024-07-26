@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #147 - 26th July 2024](https://www.youtube.com/watch?v=eo5MbjaNymk)
 - [Weekly Update #146 - 19th July 2024](https://www.youtube.com/watch?v=barNX6dEvGE)
 - [Azure Arc Agent Troubleshooting Guide](https://www.youtube.com/watch?v=P-eU9laNA7g)
 - [Weekly Update #145 - 12th July 2024](https://www.youtube.com/watch?v=Busocjf2ks4)
 - [Add existing repository to GitHub Desktop | GitHub Desktop Tutorial 2024](https://www.youtube.com/watch?v=ucIoxMbzkoM)
-- [Weekly Update #144 - 5th July 2024](https://www.youtube.com/watch?v=CRlQMPtecxk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
