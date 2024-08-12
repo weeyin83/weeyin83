@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Arc-enabled servers Q&amp;A](https://www.techielass.com/azure-arc-enabled-servers-q-a/)
 - [Managing extensions for Azure Arc-enabled servers](https://www.techielass.com/azure-arc-enabled-server-extensions/)
 - [Windows Server 2012 Arc-enabled servers not installing updates](https://www.techielass.com/windows-server-2012-arc-enabled-servers-not-installing-updates/)
 - [Filter Azure costs by Tags](https://www.techielass.com/filter-azure-costs-by-tags/)
 - [Unlocking Data Insights: A Guide to Azure Dashboards, Workbooks, and Power BI for Effective Visualization](https://www.techielass.com/azure-dashboards-azure-workbooks-power-bi/)
-- [Maximize Your Savings with Azure Advisor&#39;s Cost Optimization Workbook](https://www.techielass.com/azure-cost-optimization/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
