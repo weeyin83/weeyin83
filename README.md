@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Weekly Update #149 - 16th August 2024](https://www.youtube.com/watch?v=2dMKI7Vni5g)
 - [Azure Arc-enabled Servers Q&amp;A](https://www.youtube.com/watch?v=162a6bkr_ro)
 - [What&#39;s in my bag as a speaker?](https://www.youtube.com/watch?v=FasVC2_Km3A)
 - [Weekly Update #148 - 9th August 2024](https://www.youtube.com/watch?v=3tnrTq-M0_w)
 - [Weekly Update #147 - 26th July 2024](https://www.youtube.com/watch?v=eo5MbjaNymk)
-- [Weekly Update #146 - 19th July 2024](https://www.youtube.com/watch?v=barNX6dEvGE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
