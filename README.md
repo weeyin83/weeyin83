@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Live Q&amp;A](https://www.techielass.com/youtube-live/)
 - [Jabra Panacast 20 Review](https://www.techielass.com/jabra-panacast-20-review/)
 - [Enable Microsoft 365 Backups](https://www.techielass.com/enable-microsoft-365-backups/)
 - [Azure Arc-enabled servers Q&amp;A](https://www.techielass.com/azure-arc-enabled-servers-q-a/)
 - [Managing extensions for Azure Arc-enabled servers](https://www.techielass.com/azure-arc-enabled-server-extensions/)
-- [Windows Server 2012 Arc-enabled servers not installing updates](https://www.techielass.com/windows-server-2012-arc-enabled-servers-not-installing-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
