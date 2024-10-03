@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My desk setup 2024](https://www.youtube.com/watch?v=sj93hOMUENU)
 - [Weekly Update #154 - 27th September 2024](https://www.youtube.com/watch?v=oKY8xO4J4ME)
 - [Technically Stable Mouse Mat](https://www.youtube.com/watch?v=iV76OMODrBY)
 - [Weekly Update #153 - 20th September 2024](https://www.youtube.com/watch?v=2M9oqbBL2IU)
 - [Weekly Update #152 - 13th September 2024](https://www.youtube.com/watch?v=kQc2Q7KA2qo)
-- [Weekly Update #151 - 6th September 2024](https://www.youtube.com/watch?v=LXOeDYFUl-8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
