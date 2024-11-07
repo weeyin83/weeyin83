@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying an Azure Log Analytics Workspace with Terraform](https://www.techielass.com/deploying-an-azure-log-analytics-workspace-with-terraform/)
 - [How to Set an Away Message on LinkedIn: A Step-by-Step Guide](https://www.techielass.com/how-to-set-an-away-message-on-linkedin/)
 - [My Experience with Technically Stable&#39;s Custom and Pre-Designed Desk Mats](https://www.techielass.com/custom-mouse-mat/)
 - [YouTube Live Q&amp;A](https://www.techielass.com/youtube-live/)
 - [Jabra Panacast 20 Review](https://www.techielass.com/jabra-panacast-20-review/)
-- [Enable Microsoft 365 Backups](https://www.techielass.com/enable-microsoft-365-backups/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
