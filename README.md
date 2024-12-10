@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microsoft’s Terraform Providers for Azure: AzureRM vs AzAPI](https://www.techielass.com/terraform-providers-for-azure/)
 - [Terraform with GitHub Actions CI/CD Pipeline](https://www.techielass.com/terraform-with-github-actions-ci-cd-pipeline/)
 - [Terraform with Azure DevOps CI/CD Pipeline](https://www.techielass.com/terraform-with-azure-devops-ci-cd-pipeline/)
 - [How to use GitHub Copilot for Terraform](https://www.techielass.com/how-to-use-github-copilot-for-terraform/)
 - [Deploying an Azure Log Analytics Workspace with Terraform](https://www.techielass.com/deploying-an-azure-log-analytics-workspace-with-terraform/)
-- [How to Set an Away Message on LinkedIn: A Step-by-Step Guide](https://www.techielass.com/how-to-set-an-away-message-on-linkedin/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
