@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Kusto Query Language?](https://www.techielass.com/what-is-kusto-query-language/)
 - [Looking back at 2024!](https://www.techielass.com/2024-in-review/)
 - [Enhancing Terraform Deployments with TFLint in GitHub Actions](https://www.techielass.com/enhancing-terraform-deployments-with-tflint-in-github-actions/)
 - [Understanding Microsoft’s Terraform Providers for Azure: AzureRM vs AzAPI](https://www.techielass.com/terraform-providers-for-azure/)
 - [Terraform with GitHub Actions CI/CD Pipeline](https://www.techielass.com/terraform-with-github-actions-ci-cd-pipeline/)
-- [Terraform with Azure DevOps CI/CD Pipeline](https://www.techielass.com/terraform-with-azure-devops-ci-cd-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
