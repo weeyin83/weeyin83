@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Azure Workload Identity Federation &lpar;OIDC&rpar; with Azure DevOps to deploy Terraform](https://www.techielass.com/using-azure-workload-identity-federation-oidc-with-azure-devops-to-deploy-terraform-2/)
 - [Understanding KQL Operators](https://www.techielass.com/understanding-kql-operators/)
 - [What are Terraform Modules and how to use them](https://www.techielass.com/what-are-terraform-modules/)
 - [What is Kusto Query Language?](https://www.techielass.com/what-is-kusto-query-language/)
 - [Looking back at 2024!](https://www.techielass.com/2024-in-review/)
-- [Enhancing Terraform Deployments with TFLint in GitHub Actions](https://www.techielass.com/enhancing-terraform-deployments-with-tflint-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
