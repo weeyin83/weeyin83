@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Windows Server Management Enabled by Azure Arc](https://www.techielass.com/windows-server-management-enabled-by-azure-arc/)
 - [Documenting your KQL queries](https://www.techielass.com/documenting-your-kql-queries/)
 - [Azure Local licensing explained](https://www.techielass.com/azure-local-licensing-explained/)
 - [Understanding KQL Functions](https://www.techielass.com/understanding-kql-functions/)
 - [Using Azure Workload Identity Federation &lpar;OIDC&rpar; with Azure DevOps to deploy Terraform](https://www.techielass.com/using-azure-workload-identity-federation-oidc-with-azure-devops-to-deploy-terraform-2/)
-- [Understanding KQL Operators](https://www.techielass.com/understanding-kql-operators/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
