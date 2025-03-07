@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Microsoft AI Tour London 2025](https://www.youtube.com/watch?v=r9uGq-Ux_W8)
 - [Terraform providers for Azure](https://www.youtube.com/watch?v=F7UIaDYJ6wI)
 - [My YouTube membership levels!](https://www.youtube.com/watch?v=NkOGT8rU_t0)
 - [Scottish Summit 2024. #scottishsummit Aberdeen #techconference](https://www.youtube.com/watch?v=a_hy8aa_DDk)
 - [Weekly Update #155 - 4th October 2024](https://www.youtube.com/watch?v=_sDmjkXf6Wo)
-- [My desk setup 2024](https://www.youtube.com/watch?v=sj93hOMUENU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
