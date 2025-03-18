@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Dev Containers?](https://www.techielass.com/what-are-dev-containers/)
 - [Visualising data with KQL](https://www.techielass.com/visualising-data-with-kql/)
 - [Advanced Windows Server Management Enabled by Azure Arc](https://www.techielass.com/windows-server-management-enabled-by-azure-arc/)
 - [Documenting your KQL queries](https://www.techielass.com/documenting-your-kql-queries/)
 - [Azure Local licensing explained](https://www.techielass.com/azure-local-licensing-explained/)
-- [Understanding KQL Functions](https://www.techielass.com/understanding-kql-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
