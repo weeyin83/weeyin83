@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Container Setup for Hugo](https://www.techielass.com/dev-container-setup-for-hugo/)
 - [Azure immutable backups: Protecting your data from ransomware and insider threats](https://www.techielass.com/azure-immutable-backups/)
 - [What are Dev Containers?](https://www.techielass.com/what-are-dev-containers/)
 - [Visualising data with KQL](https://www.techielass.com/visualising-data-with-kql/)
 - [Advanced Windows Server Management Enabled by Azure Arc](https://www.techielass.com/windows-server-management-enabled-by-azure-arc/)
-- [Documenting your KQL queries](https://www.techielass.com/documenting-your-kql-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
