@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform depends_on: What it is, When to use it, and Best Practices](https://www.techielass.com/how-to-use-terraform-depends-on/)
 - [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://www.techielass.com/high-volume-email-vs-azure-communication-services/)
 - [Microsoft Defender for Storage: Threat Detection &amp; Protection for Your Data](https://www.techielass.com/microsoft-defender-for-storage/)
 - [Dev Container Setup for Hugo](https://www.techielass.com/dev-container-setup-for-hugo/)
 - [Azure immutable backups: Protecting your data from ransomware and insider threats](https://www.techielass.com/azure-immutable-backups/)
-- [What are Dev Containers?](https://www.techielass.com/what-are-dev-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
