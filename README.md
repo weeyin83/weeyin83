@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Azure Communication Services &lpar;ACS&rpar; with Terraform](https://www.techielass.com/deploy-azure-communication-services-with-terraform/)
 - [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://www.techielass.com/how-to-use-terraform-refresh-only/)
 - [Azure Local Solution Categories explained: Validated Nodes, Integrated Systems, and Premier Solutions](https://www.techielass.com/azure-local-solution-categories-explained/)
 - [Terraform Dependencies: Implicit vs. Explicit Explained](https://www.techielass.com/terraform-dependencies-implicit-explicit/)
 - [Terraform depends_on: What it is, When to use it, and Best Practices](https://www.techielass.com/how-to-use-terraform-depends-on/)
-- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://www.techielass.com/high-volume-email-vs-azure-communication-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
