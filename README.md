@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Terraform -refresh-only tutorial | Fixing State drift the right way](https://www.youtube.com/watch?v=acTvUZI0Nfg)
 - [How to fix Terraform state drift](https://www.youtube.com/watch?v=vBKkdCaP9jU)
 - [What Is KQL? A beginner&#39;s guide to Kusto Query Language](https://www.youtube.com/watch?v=gIKBSU7RNUk)
 - [Stop sending bulk emails the wrong way in Microsoft 365](https://www.youtube.com/watch?v=rPhGAZ1kyZw)
 - [Azure Local Solution Categories](https://www.youtube.com/watch?v=xeJHQht3_D4)
-- [Microsoft AI Tour London 2025](https://www.youtube.com/watch?v=r9uGq-Ux_W8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
