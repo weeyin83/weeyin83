@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Enable Azure Monitor Diagnostic Settings with Terraform](https://www.techielass.com/enable-azure-monitor-diagnostic-settings-terraform/)
 - [How to configure Azure Monitor Diagnostic settings in the Azure Portal](https://www.techielass.com/configure-azure-monitor-diagnostic-settings/)
 - [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://www.techielass.com/terraform-data-sources/)
 - [Deploy Azure Communication Services &lpar;ACS&rpar; with Terraform](https://www.techielass.com/deploy-azure-communication-services-with-terraform/)
 - [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://www.techielass.com/how-to-use-terraform-refresh-only/)
-- [Azure Local Solution Categories explained: Validated Nodes, Integrated Systems, and Premier Solutions](https://www.techielass.com/azure-local-solution-categories-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
