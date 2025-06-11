@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [High Volume Email vs Azure Communication Services for Bulk Email](https://www.youtube.com/watch?v=HNaFMAaxHj0)
 - [Terraform Dependencies Explained in 90 Seconds!](https://www.youtube.com/watch?v=1wupi855cJg)
 - [Terraform -refresh-only tutorial | Fixing State drift the right way](https://www.youtube.com/watch?v=acTvUZI0Nfg)
 - [How to fix Terraform state drift](https://www.youtube.com/watch?v=vBKkdCaP9jU)
 - [What Is KQL? A beginner&#39;s guide to Kusto Query Language](https://www.youtube.com/watch?v=gIKBSU7RNUk)
-- [Stop sending bulk emails the wrong way in Microsoft 365](https://www.youtube.com/watch?v=rPhGAZ1kyZw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
