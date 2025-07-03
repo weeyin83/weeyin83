@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Terraform outputs explained](https://www.youtube.com/shorts/f1E6T1VOQ-Q)
 - [Fork, Clone &amp; Edit GitHub projects easily with GitHub Desktop | 2025 Tutorial](https://www.youtube.com/watch?v=hL9fCjjwthE)
 - [Level Up Your Terraform Projects with Modules](https://www.youtube.com/shorts/xn1Vh5UsiFc)
 - [High Volume Email vs Azure Communication Services for Bulk Email](https://www.youtube.com/watch?v=HNaFMAaxHj0)
 - [Terraform Dependencies Explained in 90 Seconds!](https://www.youtube.com/shorts/1wupi855cJg)
-- [Terraform -refresh-only tutorial | Fixing State drift the right way](https://www.youtube.com/watch?v=acTvUZI0Nfg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
