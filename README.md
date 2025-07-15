@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy Azure Key Vault with Terraform: A Step-by-Step Guide](https://www.techielass.com/deploy-azure-key-vault-with-terraform/)
 - [Understanding Azure Hybrid Benefit](https://www.techielass.com/understanding-azure-hybrid-benefit-cost-savings/)
 - [What the terraform providers command tells you](https://www.techielass.com/terraform-providers-command-explained/)
 - [How to secure your Azure Storage with Microsoft Defender for Storage](https://www.techielass.com/how-to-secure-azure-storage-defender-for-storage/)
 - [Mastering Azure Resource Graph: Query &amp; Analyse Tags with KQL](https://www.techielass.com/azure-resource-graph-query-tags-kql/)
-- [Enable Azure Monitor Diagnostic Settings with Terraform](https://www.techielass.com/enable-azure-monitor-diagnostic-settings-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
