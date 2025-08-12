@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GitOps and DevOps: Are they the same thing?](https://www.techielass.com/gitops-vs-devops/)
 - [What is Azure File Sync? Features, use cases and costs explained](https://www.techielass.com/azure-file-sync-guide-use-cases-costs/)
 - [Copilot in Azure explained](https://www.techielass.com/copilot-in-azure/)
 - [How to use Terraform to generate secrets](https://www.techielass.com/how-to-use-terraform-to-generate-secrets/)
 - [How to deploy Azure Key Vault with Terraform: A Step-by-Step Guide](https://www.techielass.com/deploy-azure-key-vault-with-terraform/)
-- [Understanding Azure Hybrid Benefit](https://www.techielass.com/understanding-azure-hybrid-benefit-cost-savings/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
