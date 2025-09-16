@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up SFTP in Azure](https://www.techielass.com/set-up-sftp-in-azure/)
 - [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://www.techielass.com/prompting-gpt5-guide/)
 - [Understanding AI: Common terms and acronyms made simple](https://www.techielass.com/ai-terms-explained/)
 - [How to enable automatic upgrades for Azure Arc Agent &lpar;Public Preview&rpar;](https://www.techielass.com/azure-arc-agent-automatic-upgrade/)
 - [Visualise your Certifications with the Exam Timeline Project](https://www.techielass.com/exam-timeline-project-visualise-certifications/)
-- [GitOps and DevOps: Are they the same thing?](https://www.techielass.com/gitops-vs-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
