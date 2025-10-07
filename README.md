@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Azure SFTP deployment with Terraform](https://www.techielass.com/automate-azure-sftp-with-terraform/)
 - [Estimate cloud costs with Terraform and Infracost](https://www.techielass.com/estimate-cloud-costs-with-terraform-and-infracost/)
 - [Install and use Microsoft AI Shell](https://www.techielass.com/install-microsoft-ai-shell-copilot-in-azure/)
 - [How to set up SFTP in Azure](https://www.techielass.com/set-up-sftp-in-azure/)
 - [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://www.techielass.com/prompting-gpt5-guide/)
-- [Understanding AI: Common terms and acronyms made simple](https://www.techielass.com/ai-terms-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
