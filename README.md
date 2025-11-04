@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://www.techielass.com/azure-storage-mover-migrate-aws-s3-to-azure/)
 - [Cost Optimization in Azure: Using the FinOps Toolkit to Save Money](https://www.techielass.com/azure-finops-toolkit-cost-optimization/)
 - [How to onboard a Windows Server to Azure Arc](https://www.techielass.com/azure-arc-windows-server-setup/)
 - [What is Grafana?](https://www.techielass.com/what-is-grafana/)
 - [Automating Azure SFTP deployment with Terraform](https://www.techielass.com/automate-azure-sftp-with-terraform/)
-- [Estimate cloud costs with Terraform and Infracost](https://www.techielass.com/estimate-cloud-costs-with-terraform-and-infracost/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
