@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Comments in Terraform](https://www.techielass.com/terraform-comments/)
 - [Can you recover a deleted Microsoft Entra Tenant?](https://www.techielass.com/recover-deleted-entra-tenant/)
 - [What is a tfvars file in Terraform and how do you use it?](https://www.techielass.com/what-is-a-tfvars-file-in-terraform-and-how-do-you-use-it/)
 - [Deploying an Azure VM into an Availability Zone with Terraform](https://www.techielass.com/azure-vm-in-availability-zone-terraform/)
 - [What is Chaos Engineering?](https://www.techielass.com/what-is-chaos-engineering/)
-- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://www.techielass.com/azure-storage-mover-migrate-aws-s3-to-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
