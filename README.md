@@ -37,11 +37,11 @@ My passion is technology, and I love to help people understand what it can do to
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Azure OpenAI with Terraform and use it in Microsoft AI Shell](https://www.techielass.com/deploy-azure-openai-terraform-microsoft-ai-shell/)
 - [LinkedIn Smart Links: How to Share Resources, Track Engagement, and Improve Outreach](https://www.techielass.com/linkedin-smart-links-guide/)
 - [Looking back at 2025](https://www.techielass.com/looking-back-at-2025/)
 - [Connect Microsoft AI Shell to Azure OpenAI Service](https://www.techielass.com/connect-ai-shell-azure-openai-guide/)
 - [How Pre-Sales Techies can use BANT to qualify opportunities effectively](https://www.techielass.com/pre-sales-techies-bant-guide/)
-- [How to Use Comments in Terraform](https://www.techielass.com/terraform-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
