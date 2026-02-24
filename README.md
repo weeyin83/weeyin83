@@ -23,11 +23,11 @@ My passion is technology, and I love to help people understand what it can do to
 ---
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is .terraform.lock.hcl? | Terraform Lock File Explained](https://www.youtube.com/watch?v=DGNnjvnrlJI)
 - [Terraform Data Sources Explained | Read Existing Infrastructure the Right Way](https://www.youtube.com/watch?v=5-g1w2HphcI)
 - [What is a tfvars file in Terraform? | Manage Variables &amp; Multiple Environments](https://www.youtube.com/watch?v=v93kIcGZgig)
 - [What 52 Blogs Taught Me in 2025 | Consistency, Community &amp; Creating Content](https://www.youtube.com/watch?v=L_7FxpU45lQ)
 - [Copilot in Azure explained](https://www.youtube.com/watch?v=eTljIk9B2PA)
-- [Terraform outputs explained](https://www.youtube.com/shorts/f1E6T1VOQ-Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
  ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
