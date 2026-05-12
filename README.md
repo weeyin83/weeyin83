@@ -1,36 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sarah Lean</h1>
-<h3 align="center">Senior Cloud & AI Infrastructure Solutions Engineer...</h3>
+<h3 align="center">Senior Cloud & AI Infrastructure Solutions Engineer</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/techielass?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=techielass)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=People%20subscribed%20to%20my%20YouTube%20channel&style=social)](https://www.youtube.com/techielass?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/techielass?sub_confirmation=1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://in.linkedin.com/in/sazlean)
----
-
-
-I am Sarah Lean, and I've worked in IT for over 17 years including service provider, manufacturing, Scotch Whisky and local authority industries. I've served my time resetting passwords and triaging support calls, maintaining platforms, building infrastructure, migrating end of life systems and migrating data centers. I've been a subject matter expert in various solutions through my career including Microsoft Exchange, System center Configuration Manager and Patch Management, to name a few.
-
-I am a STEM Ambassador and am hopeful that by sharing my story with the next generation it can help to inspire them into a STEM career. I am also the founder of the Glasgow Azure User Group, which is a community group that meets every two months and aims to bring together people who are looking to learn and network with their peers.
-
-My passion is technology, and I love to help people understand what it can do to help them. I consider myself a life long learner and love to share my passion for learning with others.
+[![Blog Badge](https://img.shields.io/badge/Blog-techielass.com-orange?style=flat&logo=rss&logoColor=white)](https://www.techielass.com)
 
 ---
 
-## 🧰 Languages and Tools:
-<!--Toolbox icons -->
+I'm Sarah Lean, and I've spent nearly two decades in IT — across service provider, manufacturing, Scotch Whisky and local authority industries. I've served my time resetting passwords and triaging support calls, maintaining platforms, building infrastructure, migrating end-of-life systems and migrating data centers. Along the way I've been a subject matter expert in solutions including Microsoft Exchange, System Center Configuration Manager and Patch Management.
 
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_bicep.svg" alt="Azure Bicep" width="40" height="40"/> <a href="https://learn.microsoft.com/powershell/scripting/overview?view=powershell-7.3" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell2.svg" alt="PowerShell" width="40" height="40"/> </p>
+These days I focus on helping people design, build and operate cloud and AI infrastructure on Azure — and on making that knowledge approachable for everyone.
+
+I'm a STEM Ambassador and hopeful that by sharing my story with the next generation I can help inspire them into a STEM career. I'm also the founder of the **Glasgow Azure User Group**, a community that meets every two months to learn and network with peers.
 
 ---
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Azure Quotas, Alerts, and Quota Groups Explained](https://www.youtube.com/watch?v=1ZQ3h3Bg6uI)
-- [Terraform Plan and Apply: Beginner’s Guide](https://www.youtube.com/watch?v=Dt4plj1zKjU)
-- [Estimate Azure Costs from Terraform with Infracost](https://www.youtube.com/watch?v=XHGSV0Z5iu0)
-- [What is .terraform.lock.hcl? | Terraform Lock File Explained](https://www.youtube.com/watch?v=DGNnjvnrlJI)
-- [Terraform Data Sources Explained | Read Existing Infrastructure the Right Way](https://www.youtube.com/watch?v=5-g1w2HphcI)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
 
- ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
+## 🚀 What I'm focused on right now
+
+- ☁️ Azure infrastructure and platform engineering
+- 🤖 AI infrastructure — Azure OpenAI, AI Foundry, and the Model Context Protocol (MCP)
+- 🛠️ Infrastructure as Code with Terraform and Bicep
+- 🎥 Sharing what I learn on [YouTube](https://www.youtube.com/techielass) and [techielass.com](https://www.techielass.com)
 
 ---
 
@@ -48,11 +38,41 @@ My passion is technology, and I love to help people understand what it can do to
 
 ---
 
-<h3 align="left">Like my work?</h3>
-<p><a href="https://www.buymeacoffee.com/techielass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techielass" /></a></p><br><br>
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure Quotas, Alerts, and Quota Groups Explained](https://www.youtube.com/watch?v=1ZQ3h3Bg6uI)
+- [Terraform Plan and Apply: Beginner’s Guide](https://www.youtube.com/watch?v=Dt4plj1zKjU)
+- [Estimate Azure Costs from Terraform with Infracost](https://www.youtube.com/watch?v=XHGSV0Z5iu0)
+- [What is .terraform.lock.hcl? | Terraform Lock File Explained](https://www.youtube.com/watch?v=DGNnjvnrlJI)
+- [Terraform Data Sources Explained | Read Existing Infrastructure the Right Way](https://www.youtube.com/watch?v=5-g1w2HphcI)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## 🎤 Speaking & Community
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeyin83&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Founder & organiser of the [Glasgow Azure User Group](https://www.meetup.com/glasgow-azure-user-group/)
+- 🎓 STEM Ambassador, encouraging the next generation into tech careers
+- 🎙️ Regular speaker at community events, user groups and conferences
+
+---
+
+## 🧰 Languages and Tools
+
+<p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview" target="_blank"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_bicep.svg" alt="Bicep" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell2.svg" alt="PowerShell" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/features/copilot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+</p>
+
+---
+
+## ☕ Like my work?
+
+<a href="https://www.buymeacoffee.com/techielass"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
+
