@@ -27,11 +27,11 @@ I'm a STEM Ambassador and hopeful that by sharing my story with the next generat
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Containers in VS Code: Why every project needs one](https://www.techielass.com/dev-containers-vscode-infrastructure-engineers/)
 - [Azure Environment Design: Stop Paying Production Prices for Dev](https://www.techielass.com/azure-environment-design-dont-pay-production-prices-for-dev/)
 - [Deploying to Multiple Azure Subscriptions with Terraform Provider Aliases](https://www.techielass.com/terraform-azure-multi-subscription-provider-aliases/)
 - [Terraform Plan vs Apply: A Beginner’s Guide to Understanding the Difference](https://www.techielass.com/terraform-plan-vs-apply-beginners-guide/)
 - [Deploy Azure OpenAI with Terraform and use it in Microsoft AI Shell](https://www.techielass.com/deploy-azure-openai-terraform-microsoft-ai-shell/)
-- [LinkedIn Smart Links: How to Share Resources, Track Engagement, and Improve Outreach](https://www.techielass.com/linkedin-smart-links-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.techielass.com)
