@@ -40,11 +40,11 @@ I'm a STEM Ambassador and hopeful that by sharing my story with the next generat
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [SQL Server 2016 Extended Security Updates](https://www.youtube.com/shorts/vTM0WThD2bE)
 - [Azure Quotas, Alerts, and Quota Groups Explained](https://www.youtube.com/watch?v=1ZQ3h3Bg6uI)
 - [Terraform Plan and Apply: Beginner’s Guide](https://www.youtube.com/watch?v=Dt4plj1zKjU)
 - [Estimate Azure Costs from Terraform with Infracost](https://www.youtube.com/watch?v=XHGSV0Z5iu0)
 - [What is .terraform.lock.hcl? | Terraform Lock File Explained](https://www.youtube.com/watch?v=DGNnjvnrlJI)
-- [Terraform Data Sources Explained | Read Existing Infrastructure the Right Way](https://www.youtube.com/watch?v=5-g1w2HphcI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
