@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah Lean</h1>
 <h3 align="center">Senior Cloud & AI Infrastructure Solutions Engineer</h3>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ8U53KvEX2JuCe48MxmV3Q?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/techielass?sub_confirmation=1)
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/techielass?sub_confirmation=1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://in.linkedin.com/in/sazlean)
 [![Blog Badge](https://img.shields.io/badge/Blog-techielass.com-orange?style=flat&logo=rss&logoColor=white)](https://www.techielass.com)
 
@@ -21,6 +21,14 @@ I'm a STEM Ambassador and hopeful that by sharing my story with the next generat
 - 🤖 AI infrastructure — Azure OpenAI, AI Foundry, and the Model Context Protocol (MCP)
 - 🛠️ Infrastructure as Code with Terraform and Bicep
 - 🎥 Sharing what I learn on [YouTube](https://www.youtube.com/techielass) and [techielass.com](https://www.techielass.com)
+
+---
+
+## 🥌 Featured Project
+
+I built **[RinkDraw](https://www.rinkdraw.com)**, a free, browser-based tool that helps curling clubs generate teams by preferred position or experience level. It supports spreadsheet imports, multiple competitions, and printable team sheets — with no sign-up required.
+
+[Try RinkDraw](https://www.rinkdraw.com) · [View the source on GitHub](https://github.com/weeyin83/curling-team-selector-tool)
 
 ---
 
