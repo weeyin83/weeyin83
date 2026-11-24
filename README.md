@@ -48,11 +48,11 @@ I built **[RinkDraw](https://www.rinkdraw.com)**, a free, browser-based tool tha
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Do you have skeletons in your IT Closet?](https://www.youtube.com/watch?v=p34HH05W9ek)
 - [RinkDraw: The Free Curling Team Selection Tool](https://www.youtube.com/watch?v=UGI0UG6Vnpo)
 - [SQL Server 2016 Extended Security Updates](https://www.youtube.com/shorts/vTM0WThD2bE)
 - [Azure Quotas, Alerts, and Quota Groups Explained](https://www.youtube.com/watch?v=1ZQ3h3Bg6uI)
 - [Terraform Plan and Apply: Beginner’s Guide](https://www.youtube.com/watch?v=Dt4plj1zKjU)
+- [Estimate Azure Costs from Terraform with Infracost](https://www.youtube.com/watch?v=XHGSV0Z5iu0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [...more YouTube videos](https://www.youtube.com/channel/techielass?sub_confirmation=1)
